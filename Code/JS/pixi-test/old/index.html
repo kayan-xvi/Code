@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+  <head>
+    <script src='https://pixijs.download/release/pixi.js'>
+      </script>
+  </head>
+  <body>
+    <script>
+
+      let app = new PIXI.Application({ width: 720, height: 400 });
+      document.body.appendChild(app.view);
+      
+      // This creates a sprite from an image in the same folder 
+      // Then adds it onto the stage 
+      // let drone = new PIXI.Sprite.from('test_spritesheet.png');
+      // app.stage.addChild(drone);
+      
+      PIXI.Loader.shared.add('Desktop/Code/pixi-test/spritesheet.json').load(setup);
+      
+      function setup() {
+        let sheet = PIXI.Loader.shared.resources['Desktop/Code/pixi-test/spritesheet.json'].spritesheet;
+        let sprite = new PIXI.Sprite(sheet.textures['sample.png']);
+      }
+      
+      app.stage.addChild(sprite);
+      
+      //let test = new PIXI.Sprite.from('test_spritesheet.png');
+      //app.stage.addChild(test);
+      
+      //sprite-js --scale(0.5)
+      /*
+      PIXI.Loader.shared.add("images/spritesheet.json").load(setup);
+      function setup() {
+      let sheet = PIXI.Loader.shared.resources['assets/spritesheet.json'].spritesheet;
+      let sprite = new PIXI.Sprite(sheet.textures['mocha test.png']);
+      }
+      app.stage.addChild(sprite);
+      */
+      //$ spritesheet-js assets
+      /*
+      function setup() {
+      let sheet = PIXI.Loader.shared.resources['assets/spritesheet.json'].spritesheet;
+      let drone = new PIXI.Sprite(sheet.textures['Drone.png']);
+      }
+      */
+      /*//npm install spritesheet-js -g
+      let app = new PIXI.Application({ width: 720, height: 400 });
+      document.body.appendChild(app.view);
+      // Magically load the PNG asynchronously
+      //let sprite = PIXI.Sprite.from('dogs.png');  
+      
+      
+      
+      //console.log('Sprite.height = ' + sprite.height);
+      //sprite.scale = 200
+      //console.log('Sprite.height = ' + sprite.height);
+      sprite.width = 500;
+      sprite.height = 300;
+      
+
+      const sprite_width = 13; 
+      const sprite_height = 14; 
+      const border_width = 1;
+      const spacing_width = 1 
+
+      function making_sprite(row, col) { 
+        return{
+          x: ( border_width + col * (spacing_width + sprite_width)), 
+          y: (border_width + row * (spacing_width + sprite_height))
+        }
+      }
+
+      console.log(`A sprite at (3,1) has coords:
+      ${making_sprite(3,1).x}, ${making_sprite(3,1).y}`);
+      
+      
+
+      // Add a variable to count up seconds been running
+      let elapsed = 0.0;
+      // Tell our application's ticker to run a new callback every frame, 
+      // passing in the amount of time that has passed since the last tick
+      app.ticker.add((delta) => {
+      // Add the time to our total elapsed time
+      elapsed += delta;
+      //if Number.isInteger(elapsed/2) { 
+      //  row++ 
+      //}
+      //sprite.x = 100.0 // + Math.cos(elapsed/50.0) * 100.0;
+      //sprite.y = Math.sin(elapsed/50) * 100; 
+      });*/
+
+    </script>
+  </body>
+</html>

@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <meta http-equiv='X-UA-Compatible' content='ie=edge'>
+    <title> Hello </title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/5.1.3/pixi.min.js"></script>
+  </head>
+  <body>
+    <script>
+      let app;
+      let road;
+      let keys = {};
+      let keysDiv; 
+      let score;
+      let scoreDiv; 
+      let counter;
+      counter = 10000;
+      let elapsed;
+      let lives; 
+      lives = 5; 
+
+      window.onload = function() {
+        app = new PIXI.Application({width:1100, height:540});
+        app.color = 0xAAAAA;
+        document.body.appendChild(app.view);
+
+        app.loader.baseUrl = 'images'; 
+        app.loader
+          .add('road', 'road.png')
+          .add('car', 'gtr.png') 
+          .add('rock', 'rocksquare.png')
+          .add('coin', 'coin.png');
+        app.loader.onProgress.add(showProgress);
+        app.loader.onComplete.add(done);
+        app.loader.load();
+      }
+
+      function showProgress(e){
+        console.log('Loading:')
+        console.log(e.progress);
+      }
+      
+      function done(e){
+        game();
+        rocks();
+        cars();
+        coins();
+        score = 0;
+        
+        window.addEventListener('keydown', keysDown);
+        window.addEventListener('keyup', keysUp);
+        app.ticker.add(gameloop);
+        keysDiv = document.querySelector('#keys');
+        scoreDiv = document.querySelector('#score');
+        livesDiv = document.querySelector('#lives');
+      }
+
+      function keysUp(e){ 
+        //console.log(e.keyCode);
+        keys[e.keyCode] = false;
+      }
+
+      function keysDown(e){ 
+        //console.log(e.keyCode);
+        keys[e.keyCode] = true;
+      }
+
+      function gameloop(e) { 
+        if(lives <= 0){
+          app.ticker.stop();
+        }
+        Loop();
+        Loop1();
+        //console.log(car.x);
+        //console.log(road1.y);
+        keysDiv.innerHTML = JSON.stringify(keys);
+        scoreDiv.innerHTML = JSON.stringify('Score: ' + score);
+        livesDiv.innerHTML = JSON.stringify('Lives: ' + lives);
+        counter *= 1.005;
+        elapsed = 100 * Math.log(counter);
+        console.log(counter);
+          //car movement
+          if(keys['65']){
+            if (car.x > 200){
+              car.x -= 10;
+            }
+           
+          }
+          if(keys['68']){
+            if (car.x + car.width < 895){
+              car.x += 10;
+            }
+           
+          }
+          if(keys['37']){
+            if (car.x > 200){
+              car.x -= 10;
+            }
+           
+          }
+          if(keys['39']){
+            if (car.x + car.width < 895){
+              car.x += 10;
+            }
+           
+          }
+          //road movement 
+          //console.log('road1:' + road1.y);
+          //console.log(road.y);
+          
+          for(let i = 0; i < elapsed / 500; i ++) {
+            road.y += elapsed / 500;
+            road1.y += elapsed / 500;
+            rock.y += elapsed / 500;
+            rock1.y += elapsed / 500;
+            coin.y += elapsed / 500;
+          }
+          if (road.y >= 545) { 
+            road.y = -550;
+          }
+          if (road1.y >= 545) { 
+            road1.y = -550;
+          }
+          //rock moevement 
+          if (rock.y >= 550) { 
+            rock.y = -150;
+            rock.x = 200 + Math.floor(Math.random()*600);
+          }
+          //rock1 moevement 
+          if (rock1.y >= 550) { 
+            rock1.y = -150;
+            rock1.x = 200 + Math.floor(Math.random()*600);
+          }
+          //coin moevement 
+          if (coin.y >= 550) { 
+            coin.y = -150;
+            coin.x = 200 + Math.floor(Math.random()*600);
+          }
+      }
+      
+      function game(){ 
+        road = PIXI.Sprite.from(app.loader.resources.road.texture);
+        road.width = road.width/road.width * 1100;
+        road.height = road.height/road.height * 550;
+        road.y = 0;
+        app.stage.addChild(road);
+        
+        road1 = PIXI.Sprite.from(app.loader.resources.road.texture);
+        road1.width = road1.width/road1.width * 1100;
+        road1.height = road1.height/road1.height * 550;
+        road1.y = -550;
+        app.stage.addChild(road1);
+      }
+
+      function cars(){
+        car = PIXI.Sprite.from(app.loader.resources.car.texture);
+        car.height = car.height / 8;
+        car.width = car.width / 8;
+        car.x = (app.view.width - car.width) / 2;
+        car.y = 350;
+        app.stage.addChild(car);
+      }
+
+      function rocks(){ 
+        rock = PIXI.Sprite.from(app.loader.resources.rock.texture);
+        rock.x = 200;
+        rock.width = rock.width / 15;
+        rock.height = rock.height / 15; 
+        app.stage.addChild(rock); 
+
+        rock1 = PIXI.Sprite.from(app.loader.resources.rock.texture);
+        rock1.x = 200;
+        rock1.width = rock1.width / 15;
+        rock1.height = rock1.height / 15; 
+        app.stage.addChild(rock1);
+      }
+
+      function coins(){ 
+        coin = PIXI.Sprite.from(app.loader.resources.coin.texture);
+        coin.x = 200;
+        coin.width = coin.width / 5;
+        coin.height = coin.height / 5; 
+        app.stage.addChild(coin); 
+      }
+
+      //collision functions
+
+      function collision(a,b) { 
+        let aBox = a.getBounds();
+        let bBox = b.getBounds(); 
+        return aBox.x + aBox.width > bBox.x &&
+          bBox.x + bBox.width > aBox.x &&
+          aBox.y + aBox.height > bBox.y &&
+          bBox.y + bBox.height > aBox.y;
+      }
+      function Loop (delta){
+        if (collision(car, rock)){
+          rock.y = -150;
+          rock.x = 200 + Math.floor(Math.random()*600);
+          rock.width *= 1.5;
+          lives -= 1;
+        }
+        if (collision(car, rock1)){
+          rock1.y = -150;
+          rock1.x = 200 + Math.floor(Math.random()*600);
+          rock1.width *= 1.5;
+          lives -= 1; 
+        }
+      }
+      function Loop1 (delta){
+        if (collision(car, coin)){
+          score ++;
+          coin.y = -150;
+          coin.x = 200 + Math.floor(Math.random()*600);
+        }
+      }
+      
+    </script>
+  </body>
+  <body>
+  <div id='keys'></div>
+  <div id='score'></div>
+  <div id='lives'></div>
+  </body>
+</html>

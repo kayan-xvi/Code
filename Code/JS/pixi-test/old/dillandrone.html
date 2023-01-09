@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src='js/pixi.min.js'></script>
+    <script>
+      let app; 
+      let player;
+      //let keys = {};
+      //let keysDiv;
+
+      window.onload = function() { 
+        app = new PIXI.Application(
+          {
+            width: 700,
+            height: 400,  
+            backgroundColor: 0xAAAAAA
+          }
+        );
+
+        document.body.appendChild(app.view);
+    
+        //Player object 
+        /*
+        player = new PIXI.Sprite.from('images/Drone.png');
+        player.anchor.set(0.5);
+        player.x = app.view.width / 2; 
+        player.y = app.view.height / 2; 
+
+        player.height = 200;
+        player.width = 150; 
+
+        app.stage.addChild(player);
+        */
+
+        
+
+        
+      
+        //preload assets 
+        app.loader.baseUrl = 'images';
+        app.loader
+          .add('dillan', 'dillan.png')
+          .add('drone', 'Drone.png')
+          .add('kite', 'sample.png');
+      
+        app.loader.onProgress.add(showProgress);
+        app.loader.onComplete.add(doneLoading);
+        app.loader.onError.add(reportError); 
+      
+        app.loader.load(); 
+
+        //adding drone to stage 
+        drone = PIXI.Sprite.from(app.loader.resources.drone.texture);
+        drone.anchor.set(0.5);
+        drone.x = app.view.width / 2; 
+        drone.y = app.view.height / 2; 
+        drone.height = 200;
+        drone.width = 150;
+        app.stage.addChild(drone);
+        //adding dillan to stage 
+        dillan = PIXI.Sprite.from(app.loader.resources.dillan.texture);
+        dillan.anchor.set(0.5);
+        dillan.x = app.view.width / 2;
+        dillan.y = app.view.height / 2; 
+        dillan.height = dillan.height / 3;
+        dillan.width = dillan.width / 3;
+        app.stage.addChild(dillan);
+        app.ticker.add(Loop);
+        
+        //keyboard event handler 
+        
+        window.addEventListener('keydown', keysDown);
+        window.addEventListener('keyup', keysUp); 
+        app.ticker.add(gameLoop); 
+        keysDiv = document.querySelector('#keys');
+
+        //mouse interaction 
+        
+        app.stage.interactive = true; 
+        app.stage.on('pointermove', movePlayer)
+        
+        
+    }
+
+    //loader functions 
+    
+    function showProgress(e) { 
+      console.log(e.progress);
+    }
+
+    function reportError(e) { 
+      console.error('Error: ' + e.message);
+    }
+
+    function doneLoading(e) { 
+      console.log('Done loading');
+      
+    }
+
+    //mouse function 
+    
+    function movePlayer(e) { 
+      let pos = e.data.global;
+
+      dillan.x = pos.x;
+      dillan.y = pos.y;
+    }
+    
+
+    //wasd functions
+    
+    function keysUp(e) { 
+      //console.log(e.keyCode);
+      keys[e.keyCode] = false; 
+    }
+
+    function keysDown(e) { 
+      //console.log(e.keyCode);
+      keys[e.keyCode] = true; 
+    }
+
+    function gameLoop() { 
+      keysDiv.innerHTML = JSON.stringify(keys); 
+      //W moves it up 
+      if(keys['87']) { 
+        drone.y -= 5;
+      }
+      //S moves it down
+      if(keys['83']) { 
+        drone.y += 5;
+      }
+      //D moves it right
+      if(keys['68']) { 
+        drone.x += 5;
+      }
+      //A moves it left
+      if(keys['65']) { 
+        drone.x -= 5;
+      }
+    }
+    
+    //collision functions
+
+    function collision(a,b) { 
+      let aBox = a.getBounds();
+      let bBox = b.getBounds(); 
+      return aBox.x + aBox.width > bBox.x &&
+        bBox.x + bBox.width > aBox.x &&
+        aBox.y + aBox.height > bBox.y &&
+        bBox.y + bBox.height > aBox.y;
+    }
+
+    function Loop (delta){
+      if (collision(drone, dillan)){
+        drone.width += drone.width / 100;
+        dillan.width += dillan.width /100; 
+      }
+    }
+
+    </script>
+</head>
+<body>
+<div id='keys'> </div>
+</body>
+</html>

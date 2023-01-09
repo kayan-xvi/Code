@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src='js/pixi.min.js'></script>
+    <script>
+      let app; 
+      let road;
+      //let wall; 
+
+      //set up window 
+      window.onload = function() { 
+        app = new PIXI.Application(
+          {
+            width: 400,
+            height: 400,  
+            backgroundColor: 0xAAAAAA
+          }
+        );
+        document.body.appendChild(app.view);
+
+        //preload 
+        app.loader.baseUrl = '2048images';
+        app.loader
+          .add('two','2.png')
+          .add('four','4.png')
+          .add('eight','8.png')
+          .add('sixteen','16.png')
+          .add('thirtyTwo','32.png')
+          .add('sixtyFour','64.png')
+          .add('oneTwoEight','128.png')
+          .add('twoFiveSix','256.png')
+          .add('fiveOneTwo','512.png')
+          .add('oneOTwoFour','1024.png')
+          .add('twoOFourEight','2048.png')
+        app.loader.onProgress.add(showProgress);
+        app.loader.onComplete.add(doneLoading);
+        app.loader.onError.add(reportError); 
+        app.loader.load();
+        
+        //execution for the 
+        window.addEventListener('keydown', keysDown);
+        window.addEventListener('keyup', keysUp); 
+        app.ticker.add(gameLoop); 
+        //trying to change refresh rate so single press only moves once 
+        // this doesn't work though 
+        app.ticker.speed = 0.0001; 
+        
+        //this is for displaying the keys being pressed 
+        keysDiv = document.querySelector('#keys');
+        
+      }
+
+      //loader functions 
+    
+      function showProgress(e) { 
+        console.log(e.progress);
+      }
+
+      function reportError(e) { 
+        console.error('Error: ' + e.message);
+      }
+
+      function doneLoading(e) { 
+        console.log('Done loading');
+        twoOrFour();
+        //app.ticker.add(Loop);
+        
+      }
+
+      //wasd functions
+    
+      function keysUp(e) { 
+        //console.log(e.keyCode);
+        keys[e.keyCode] = false; 
+      }
+
+      function keysDown(e) { 
+        //console.log(e.keyCode);
+        keys[e.keyCode] = true; 
+      }
+
+      function gameLoop() { 
+        keysDiv.innerHTML = JSON.stringify(keys); 
+        //setTimeout(3000000);
+        //W moves it up 
+        if(keys['87']) { 
+          if (!(two.y == 50)){
+            two.y -= 100;
+            twoOrFour();
+          }
+          
+        }
+        //S moves it down
+        if(keys['83']) { 
+          if (!(two.y == 350)){
+            two.y += 100;
+            twoOrFour();
+          }
+          
+        }
+        //D moves it right
+        if(keys['68']) { 
+          if (!(two.x == 350)){
+            two.x += 100;
+            twoOrFour();
+          }
+          
+        }
+        //A moves it left
+        if(keys['65']) { 
+          if (!(two.x == 50)){
+            two.x -= 100;
+            twoOrFour();
+          }
+          
+        }
+      }
+
+      // insert 2 or 4 randomly 
+      function twoOrFour(){ 
+        // this picks a random number with a 50/50 chance of each 
+        let choose =   Math.floor(Math.random()*2);
+        console.log(choose); 
+        if (choose == 0){ 
+          two = PIXI.Sprite.from(app.loader.resources.two.texture);
+          two.anchor.set(0.5);
+          X = Math.floor(Math.random()*4) + 1;
+          Y = Math.floor(Math.random()*4) + 1;
+          //console.log(X);
+          //console.log(Y);
+          two.x = ( app.view.width / 4 * X ) - 50;
+          two.y = ( app.view.height / 4 * Y ) - 50;
+          //console.log(two.x);
+          //console.log(two.y);
+          two.height = 100;
+          two.width = 100;
+          app.stage.addChild(two);
+        }
+        else{
+          four = PIXI.Sprite.from(app.loader.resources.four.texture);
+          four.anchor.set(0.5);
+          X = Math.floor(Math.random()*4) + 1;
+          Y = Math.floor(Math.random()*4) + 1;
+          //console.log(X);
+          //console.log(Y);
+          four.x = ( app.view.width / 4 * X ) - 50;
+          four.y = ( app.view.height / 4 * Y ) - 50;
+          //console.log(two.x);
+          //console.log(two.y);
+          four.height = 100;
+          four.width = 100;
+          app.stage.addChild(four);
+        }
+      }
+
+      //collision functions with the aim of not letting them overlap 
+      /*
+      function collision(a,b) { 
+      let aBox = a.getBounds();
+      let bBox = b.getBounds(); 
+      return aBox.x + aBox.width + 1 > bBox.x,
+        bBox.x + bBox.width + 1 > aBox.x,
+        aBox.y + aBox.height + 1 > bBox.y,
+        bBox.y + bBox.height + 1 > aBox.y;
+    }
+
+    //just testing to see if the 1 pixel overlap works 
+
+    function Loop (delta){
+      // to means the first one is central and the 
+      //second is that position relative to this 
+      let toRight, toLeft, toAbove, toBelow = collision(two, two)
+      if (toRight){
+        two.width ++ 
+      }
+      if (toleft){ 
+        two.height ++ 
+      }
+    }
+    */
+    </script>
+</head>
+<body>
+<div id='keys'> </div>
+</body>
+</html>

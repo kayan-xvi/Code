@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src='js/pixi.min.js'></script>
+    <script>
+        let app; 
+        //let wall; 
+
+        //set up window 
+        window.onload = function() { 
+        app = new PIXI.Application(
+        {
+        width: 700,
+        height: 400,  
+        backgroundColor: 0xAAAAAA
+        }
+        );
+        document.body.appendChild(app.view);
+
+        //preload 
+        
+        app.loader.baseUrl = 'images';
+        app.loader
+        .add('dillan', 'dillan.png')
+        .add('drone', 'Drone.png')
+        .add('kite', 'sample.png')
+        .add('road', 'road.png');
+        app.loader.onComplete.add(doneLoading);
+        app.loader.load();
+
+        //load in real background 
+        
+        road = PIXI.Sprite.from(app.loader.resources.road.texture);
+        road.anchor.set(0.5);
+        app.stage.addChild(road);
+        
+        
+        }
+
+        function doneLoading(e) { 
+        console.log('Done loading');
+        }
+
+    </script>
+</head>
+<body>
+</body>
+</html>

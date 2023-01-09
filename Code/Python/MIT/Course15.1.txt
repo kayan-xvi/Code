@@ -1,0 +1,1130 @@
+Managerial Economics
+15.000 Explorations in Management
+______
+Undergrad (Fall)
+Prereq: None
+Units: 2-0-1 [P/D/F]
+______
+Broad introduction to the various aspects of management including analytics, accounting and finance, operations, marketing, entrepreneurship and leadership, organizations, economics, systems dynamics, and negotiation and communication. Introduces the field of management through a variety of experiences as well as discussions led by faculty or industry experts. Also reviews the three undergraduate majors offered by Sloan as well as careers in management. Subject can count toward the 6-unit discovery-focused credit limit for first year students.
+J. Orlin
+15.002 Principled Leadership for Systemic Change
+______
+Graduate (Fall)
+Prereq: None
+Units arranged [P/D/F]
+______
+Units assigned to MBA students upon completion of the Sloan Intensive Period (SIP) core requirement. Restricted to Sloan MBA students.
+Consult: Sloan Educational Services
+15.003 Analytics Tools
+______
+Graduate (Fall, IAP, Spring, Summer)
+Prereq: None
+Units: 2-0-1 [P/D/F]
+IAP: Pre-register for IAP Meets 1/23 to 1/27. Lecture: MT9-12,M9-5 (E51-315)
+Spring:
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule TBA.
+______
+Units assigned to Master of Business Analytics students upon completion of the Analytics Tools requirement. Restricted to Master of Business Analytics students.
+Fall: M. Li
+IAP: M. Li
+Spring: M. Li
+No textbook information available
+15.005 Sloan Intensive Period Elective Requirement
+(New)
+______
+Graduate (Spring); second half of term
+Prereq: 15.002
+Units arranged [P/D/F]
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule TBA.
+______
+Units assigned to MBA students upon completion of the Sloan Intensive Period (SIP) elective requirement. Restricted to Sloan MBA students.
+Consult: Sloan Educational Services
+No textbook information available
+15.010 Economic Analysis for Business Decisions
+______
+Graduate (Fall)
+Prereq: None
+Units: 4-0-5
+Credit cannot also be received for 15.011, 15.0111
+______
+Introduces principles of microeconomics as a framework for making more informed managerial decisions. Discusses the supply and demand paradigm with applications to digital marketplaces, innovation, sources of market power, and strategic pricing. Provides an introduction to game theory to study competition and cooperation both within and between firms. Restricted to first-year Sloan MBA students.
+C. Knittel
+15.011 Economic Analysis for Business Decisions
+______
+Graduate (Fall)
+(Subject meets with 15.0111)
+Prereq: None
+Units: 4-0-5
+Credit cannot also be received for 15.010
+______
+Introduces principles of microeconomics as a framework for making more informed managerial decisions. Discusses the supply and demand paradigm with applications to digital marketplaces, innovation, sources of market power, and strategic pricing. Provides an introduction to game theory to study competition and cooperation both within and between firms. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details. Intended for non-Sloan graduate students.
+H. Rantakari
+15.0111 Economic Analysis for Business Decisions
+______
+Undergrad (Fall)
+(Subject meets with 15.011)
+Prereq: None
+Units: 4-0-5
+Credit cannot also be received for 15.010
+______
+Introduces principles of microeconomics as a framework for making more informed managerial decisions. Discusses the supply and demand paradigm with applications to digital marketplaces, innovation, sources of market power, and strategic pricing. Provides an introduction to game theory to study competition and cooperation both within and between firms. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details.
+H. Rantakari
+15.012 Applied Macro- and International Economics
+______
+Graduate (Fall)
+Prereq: None
+Units: 3-0-6
+______
+Uses case studies to investigate the macroeconomic environment in which firms operate. Develops basic tools and frameworks to examine a variety of macroeconomic topics, such as the difference between rich and poor countries; the drivers of economic growth; productivity and innovation; global trade wars and trade agreements; the importance of institutions for the functioning of an economy; global and within country inequality; climate change and the economics of the Covid-19 pandemic.
+A. Makarin, R. Rigobon
+15.013 Economics for Strategic Decisions
+______
+Graduate (Fall)
+Prereq: 15.010 or 15.011
+Units: 3-0-6
+______
+Applies principles of economics most relevant for corporate strategy to analysis of particular industries. Topics include market structure and its determinants; rational strategic behavior in small numbers situations; strategies for price and nonprice competition; dynamic pricing, output, and advertising decisions; entry and entry deterrence; competition with network externalities; investments under uncertainty; competition among platforms; R&D and patent licensing; and the growth and evolution of industries.
+R. Pindyck
+15.014 Applied Macro- and International Economics II
+______
+Graduate (Spring); first half of term
+Prereq: 15.012
+Units: 4-0-2
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Ends Mar 17. Lecture: MW10-11.30 (E62-223)
+______
+Establishes understanding of the development processes of societies and economies. Studies several dimensions of sustainability (environmental, social, political, institutional, economy, organizational, relational, and personal) and the balance among them. Explores the basics of governmental intervention, focusing on areas such as the judicial system, environment, social security, and health. Builds skills to determine what type of policy is most appropriate. Considers implications of new technologies on the financial sector: internationalization of currencies, mobile payment systems, and cryptocurrencies. Discusses the institutional framework to ensure choices are sustainable across all dimensions and applications.
+R. Rigobon
+No textbook information available
+15.015 Macroeconomic Policy Reforms
+______
+Graduate (Spring); first half of term
+Prereq: Permission of instructor
+Units: 2-0-4
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Ends Mar 17. Lecture: R EVE (4-7 PM) (E51-345)
+______
+Focuses on the current policy and economic issues in the US economy. Students propose economic and policy reforms around issues such as labor markets, inflation and central banking, financial regulation, education, health, housing, transportation, social security, democracy, immigration, diversity, and environmental policy. Topics change year to year. In each class, proposals are presented and voted upon by the group. Restricted to Sloan Fellows.
+R. Rigobon
+No textbook information available
+15.017[J] Engineering, Economics and Regulation for Energy Access in Developing Countries
+______
+Graduate (Spring)
+Not offered regularly; consult department
+(Same subject as 6.9370[J])
+Prereq: None
+Units: 3-0-9
+______
+Examines the technical, economic, political and social trade-offs inherent in designing energy solutions that can ensure universal access to electricity - as well as modern technologies for heating and cooking - in developing countries. Presents the characteristic features of the power sectors in these countries and how they need specific technical, financial and regulatory approaches. Focuses on the identification and design of viable business models that can attract the large volume of private investment needed to achieve universal energy access. Covers adequate power sector regulation and computer-aided electrification planning techniques in detail. Students make use of these models and discuss practical case examples.
+Staff
+15.018 Current Debates of Macroeconomics and Public Policy
+______
+Graduate (Spring); first half of term
+Prereq: None
+Units: 2-0-4
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Ends Mar 17. Lecture: W EVE (4-7 PM) (E62-276)
+______
+Concentrates on debates about current policy challenges. Students debate and vote on policy actions on current issues in developed and developing nations. Subjects include industrial policy, macroeconomics, poverty, social safety net, labor practices, immigration and labor markets, international economics, human rights, civil rights, democracy, environmental policy, regulation, and crypto assets. Topics change from year to year.
+R. Rigobon
+No textbook information available
+15.020 Economics of Energy, Innovation, and Sustainability
+______
+Graduate (Fall)
+Prereq: 14.01 or 15.011
+Units: 3-0-9
+Credit cannot also be received for 14.43, 15.0201
+______
+Covers energy and environmental market organization and regulation. Explores economic challenges and solutions to transforming energy markets to be more efficient, accessible, affordable, and sustainable. Applies core economic concepts - consumer choice, firm profit maximization, and strategic behavior - to understand when energy and environmental markets work well and when they fail. They also conduct data-driven economic analysis on the trade-offs of real and proposed policy interventions. Topics include renewable generation sources for electricity, energy access in emerging markets, efficiency programs and fuel efficiency standards, transitioning transportation to alternative fuels, measuring damages and adaptation to climate change, and the effect of energy and environmental policy on innovation. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details.
+J. Li
+15.0201[J] Economics of Energy, Innovation, and Sustainability
+______
+Undergrad (Fall) HASS Social Sciences
+(Same subject as 14.43[J])
+Prereq: 14.01 or 15.0111
+Units: 3-0-9
+Credit cannot also be received for 15.020
+______
+Covers energy and environmental market organization and regulation. Explores economic challenges and solutions to transforming energy markets to be more efficient, accessible, affordable, and sustainable. Applies core economic concepts - consumer choice, firm profit maximization, and strategic behavior - to understand when energy and environmental markets work well and when they fail. They also conduct data-driven economic analysis on the trade-offs of real and proposed policy interventions. Topics include renewable generation sources for electricity, energy access in emerging markets, efficiency programs and fuel efficiency standards, transitioning transportation to alternative fuels, measuring damages and adaptation to climate change, and the effect of energy and environmental policy on innovation. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details.
+J. Li
+15.021[J] Real Estate Economics
+______
+Graduate (Fall)
+(Same subject as 11.433[J])
+Prereq: 14.01, 15.010, or 15.011
+Units: 4-0-8
+______
+Develops an understanding of the fundamental economic factors that shape the market for real property, as well as the influence of capital markets in asset pricing. Analyzes of housing as well as commercial real estate. Covers demographic analysis, regional growth, construction cycles, urban land markets, and location theory as well as recent technology impacts. Exercises and modeling techniques for measuring and predicting property demand, supply, vacancy, rents, and prices.
+Albert Saiz
+15.022[J] Real Estate Trend, Volatility, Forecasting
+(New)
+______
+Graduate (Spring); first half of term
+(Same subject as 11.429[J])
+Prereq: 11.431 or permission of instructor
+Units: 3-0-3
+Add to schedule Ends Mar 24. Lecture: MW12.30-2 (9-354)
+______
+Applies the latest economic thinking and research to the task of analyzing aggregate real estate market time series, assessing risk, and developing forecasts. Presents the premise that because of capital durability and construction lags, real estate markets exhibit some degree of mean reversion and as such are at least partially predictable. Examines the extent and causes of market volatility across different markets and types of property. Long-term aggregate trends impacting the real estate sector, from demographics to technology, discussed. Limited to 30.
+W. Wheaton
+No textbook information available
+15.024 Applied Economics for Managers
+______
+Graduate (Summer)
+Prereq: Permission of instructor
+Units: 3-0-6
+Credit cannot also be received for 15.722
+______
+Develops facility with concepts, language and tools of micro economics. Primary focus on the analysis of markets, strategic interactions among firms and game theory as applied to firms. Emphasizes integration of theory, data, and judgment in the analysis of a wide range of corporate decisions, both between and within firms. Restricted to Sloan Fellow MBAs.
+Staff
+15.025 Game Theory for Strategic Advantage
+______
+Graduate (Spring)
+(Subject meets with 15.0251)
+Prereq: 14.01, 15.010, 15.011, 15.024, or permission of instructor
+Units: 3-0-6
+Credit cannot also be received for 15.741
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: TR10-11.30 (E62-223) or TR1-2.30 (E62-223)
+______
+Develops and applies principles of game theory relevant to managers' strategic decisions. Topics include how to reason about strategies and opponents; strategic commitment and negotiations; reputation and seemingly irrational actions; bidding in auctions; and the design of auctions, contests and markets. Applications to a variety of business decisions that arise in different industries, both within and outside the firm. Meets with 15.0251 when offered concurrently. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details.
+A. Bonatti
+Textbooks (Spring 2023)
+15.0251 Game Theory for Strategic Advantage
+______
+Undergrad (Spring)
+(Subject meets with 15.025)
+Prereq: 14.01, 15.0111, or permission of instructor
+Units: 3-0-6
+Credit cannot also be received for 15.741
+Add to schedule Lecture: TR10-11.30 (E62-223) or TR1-2.30 (E62-223)
+______
+Develops and applies principles of game theory relevant to managers' strategic decisions. Topics include how to reason about strategies and opponents; strategic commitment and negotiations; reputation and seemingly irrational actions; bidding in auctions; and the design of auctions, contests and markets. Applications to a variety of business decisions that arise in different industries, both within and outside the firm. Meets with 15.025 when offered concurrently. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details.
+A. Bonatti
+Textbooks (Spring 2023)
+15.026[J] Global Climate Change: Economics, Science, and Policy
+______
+Undergrad (Spring)
+Not offered regularly; consult department
+(Same subject as 12.348[J])
+Prereq: (Calculus II (GIR), 5.60, and 14.01) or permission of instructor
+Units: 3-0-6
+______
+Introduces scientific, economic, and ecological issues underlying the threat of global climate change, and the institutions engaged in negotiating an international response. Develops an integrated approach to analysis of climate change processes, and assessment of proposed policy measures, drawing on research and model development within the MIT Joint Program on the Science and Policy of Global Change. Graduate students are expected to explore the topic in greater depth through reading and individual research..
+Staff
+15.027 Opportunities in Developing Economies
+______
+Not offered academic year 2022-2023Graduate (Spring); first half of term
+Prereq: None
+Units: 3-0-3
+______
+Investigates the role of the private sector in developing economies, highlighting how solving market failures can improve overall welfare. Covers constraints faced by firms in developing economies: contract enforcement, corruption, political risk, human rights, IP and infrastructure. Uses case studies to discuss successful firms and innovative solutions to these constraints, including public-private partnerships, the role of technology, the role of finance and impact investing.
+Staff
+15.029[J] United States Energy Policy: Lessons Learned for the Future
+(New)
+______
+Graduate (Fall); second half of term
+(Same subject as 5.81[J])
+(Subject meets with 5.811[J], 15.0291[J])
+Prereq: None
+Units: 2-0-4
+______
+Compares the US policy responses, from the Nixon administration to the current administration, on issues ranging from oil import dependence to nuclear nonproliferation. Examines what lessons were learned from these issues and how they have shaped the country's current climate change policy. Prepares students to be informed and effective participants in policy deliberations that require difficult decisions and trade-offs. Addresses both domestic and international policy aspects. Students taking graduate version complete additional assignments.
+J. Deutch
+15.0291[J] United States Energy Policy: Lessons Learned for the Future
+(New)
+______
+Undergrad (Fall); second half of term
+(Same subject as 5.811[J])
+(Subject meets with 5.81[J], 15.029[J])
+Prereq: None
+Units: 2-0-4
+______
+Compares the US policy responses, from the Nixon administration to the current administration, on issues ranging from oil import dependence to nuclear nonproliferation. Examines what lessons were learned from these issues and how they have shaped the country's current climate change policy. Prepares students to be informed and effective participants in policy deliberations that require difficult decisions and trade-offs. Addresses both domestic and international policy aspects. Students taking graduate version complete additional assignments.
+J. Deutch
+15.032[J] Engineering, Economics and Regulation of the Electric Power Sector
+______
+Graduate (Spring)
+(Same subject as 6.695[J], IDS.505[J])
+Prereq: None
+Units: 3-0-9
+Credit cannot also be received for IDS.064
+Add to schedule Lecture: TR10.30-12 (37-212) Recitation: TBA
+______
+Presents an in-depth interdisciplinary look at the electric power sector, with regulation providing the link among engineering, economic, legal and environmental viewpoints. Topics include electricity markets, incentive regulation of networks, service reliability, renewable energy sources, network issues, retail competition, tariff design, distributed generation, rural electrification, multinational electricity markets, environmental impacts, and the future of utilities and strategic sustainability issues under traditional and competitive regulatory frameworks. Covers engineering, economic and legal basis to evaluate worldwide regulatory instruments. Regulatory approaches apply in other industrial sectors such as fuel gases, telecoms, transportation, water supply. Provides the basis for research or professional activities in energy sectors in industry, government, and consulting.
+I. Perez-Arriaga, C. Battle-Lopez, T. Schittekatte
+No required or recommended textbooks
+15.034 Econometrics for Managers: Correlation & Causality in a Big Data World
+______
+Graduate (Spring)
+(Subject meets with 15.0341)
+Prereq: None
+Units: 4-0-5
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: TR10-11.30 (E51-335) or TR1-2.30 (E51-345)
+______
+Introduces econometrics as a framework to go beyond correlations and get to causality, which is crucial for investment decisions in finance, marketing, human resources, public policy, and general business strategy. Through labs and projects, students get experience in many relevant applications.  Students gain a deeper understanding of modeling using multivariate regression, instrumental-variable regression, and machine learning tools including regression trees, random forest, LASSO, and neural networks. No prior knowledge is necessary. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details.
+J. Doyle, R. Rigobon
+No textbook information available
+15.0341 Econometrics for Managers: Correlation and Causality in a Big Data World
+______
+Undergrad (Spring)
+(Subject meets with 15.034)
+Prereq: None
+Units: 4-0-5
+Add to schedule Lecture: TR10-11.30 (E51-335) or TR1-2.30 (E51-345)
+______
+Introduces econometrics as a framework to go beyond correlations and get to causality, which is crucial for investment decisions in finance, marketing, human resources, public policy, and general business strategy. Through labs and projects, students get experience in many relevant applications.  Students gain a deeper understanding of modeling using multivariate regression, instrumental-variable regression, and machine learning tools including regression trees, random forest, LASSO, and neural networks. No prior knowledge is necessary. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details.
+J. Doyle, R. Rigobon
+No textbook information available
+15.036[J] Dimensions of Geoengineering
+______
+Graduate (Fall); first half of term
+Not offered regularly; consult department
+(Same subject as 1.850[J], 5.000[J], 10.600[J], 11.388[J], 12.884[J], 16.645[J])
+Prereq: None
+Units: 2-0-4
+______
+Familiarizes students with the potential contributions and risks of using geoengineering technologies to control climate damage from global warming caused by greenhouse gas emissions. Discusses geoengineering in relation to other climate change responses: reducing emissions, removing CO2 from the atmosphere, and adapting to the impacts of climate change. Limited to 100.
+J. Deutch, M. Zuber
+15.037[J] Energy Economics and Policy
+______
+Not offered academic year 2022-2023Undergrad (Spring) HASS Social Sciences
+(Same subject as 14.44[J])
+Prereq: 14.01 or 15.0111
+Units: 4-0-8
+Credit cannot also be received for 14.444, 15.038
+______
+Analyzes business and public policy issues in energy markets and in the environmental markets to which they are closely tied. Examines the economic determinants of industry structure and evolution of competition among firms in these industries. Investigates successful and unsuccessful strategies for entering new markets and competing in existing markets. Industries studied include oil, natural gas, coal, electricity, and transportation. Topics include climate change and environmental policy, the role of speculation in energy markets, the political economy of energy policies, and market power and antitrust. Two team-based simulation games, representing the world oil market and a deregulated electricity market, act to cement the concepts covered in lecture. Students taking graduate version complete additional assignments. Limited to 60.
+C. Knittel
+15.038[J] Energy Economics and Policy
+______
+Not offered academic year 2022-2023Graduate (Spring)
+(Same subject as 14.444[J])
+Prereq: 14.01 or 15.0111
+Units: 4-0-8
+Credit cannot also be received for 14.44, 15.037
+______
+Analyzes business and public policy issues in energy markets and in the environmental markets to which they are closely tied. Examines the economic determinants of industry structure and evolution of competition among firms in these industries. Investigates successful and unsuccessful strategies for entering new markets and competing in existing markets. Industries studied include oil, natural gas, coal, electricity, and transportation. Topics include climate change and environmental policy, the role of speculation in energy markets, the political economy of energy policies, and market power and antitrust. Two team-based simulation games, representing the world oil market and a deregulated electricity market, act to cement the concepts covered in lecture. Students taking graduate version complete additional assignments. Limited to 60.
+C. Knittel
+15.039[J] Organizational Economics
+______
+Undergrad (Spring) HASS Social Sciences
+(Same subject as 14.26[J])
+(Subject meets with 14.260)
+Prereq: 14.01
+Units: 4-0-8
+Add to schedule Lecture: TR10.30-12 (E51-149) Recitation: F11 (E51-149) +final
+______
+Provides a rigorous, but not overly technical introduction to the economic theory of organization together with a varying set of applications. Addresses incentives, control, relationships, decision processes, and organizational culture and performance. Introduces selected fundamentals of game theory. Students taking graduate version complete additional assignments. Limited to 60.
+R. Gibbons, H. Rantakari
+No textbook information available
+Operations Research/Statistics
+15.053 Optimization Methods in Business Analytics
+______
+Undergrad (Spring) Rest Elec in Sci & Tech
+Prereq: 1.00, 1.000, 6.100A, or permission of instructor
+Units: 4-0-8
+Add to schedule Lecture: MW10-11.30 (E51-145) or MW2.30-4 (E51-325) Recitation: F11 (E51-151) or F1 (E52-164) or F2 (E51-315)
+______
+Introduces optimization methods with a focus on modeling, solution techniques, and analysis. Covers linear programming, network optimization, integer programming, nonlinear programming, and heuristics. Applications to logistics, manufacturing, statistics, machine learning, transportation, game theory, marketing, project management, and finance. Includes a project in which student teams select and solve an optimization problem (possibly a large-scale problem) of practical interest.
+J. Orlin, T. Magnanti
+No required or recommended textbooks
+15.054[J] The Airline Industry
+______
+Graduate (Fall)
+(Same subject as 1.232[J], 16.71[J])
+Prereq: None
+Units: 3-0-9
+______
+Overview of the global airline industry, focusing on recent industry performance, current issues and challenges for the future. Fundamentals of airline industry structure, airline economics, operations planning, safety, labor relations, airports and air traffic control, marketing, and competitive strategies, with an emphasis on the interrelationships among major industry stakeholders. Recent research findings of the MIT Global Airline Industry Program are showcased, including the impacts of congestion and delays, evolution of information technologies, changing human resource management practices, and competitive effects of new entrant airlines. Taught by faculty participants of the Global Airline Industry Program.
+F. Allroggen
+15.060 Data, Models, and Decisions
+______
+Graduate (Fall, Summer)
+Prereq: Permission of instructor
+Units: 3-0-6
+Credit cannot also be received for 15.730
+______
+Introduces students to the basic tools in using data to make informed management decisions. Covers basic topics in data analytics, including introductory probability, decision analysis, basic statistics, regression, simulation, linear and discrete optimization, and introductory machine learning. Spreadsheet exercises, cases, and examples drawn from marketing, finance, operations management, and other management functions. Restricted to first-year Sloan master's students.
+R. Mazumder, R. Ramakrishnan, A. Sun
+15.062[J] Data Mining: Finding the Models and Predictions that Create Value
+______
+Graduate (Spring); second half of term
+(Same subject as IDS.145[J])
+(Subject meets with 15.0621)
+Prereq: 15.060, 15.075, or permission of instructor
+Units: 2-0-4
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Begins Apr 3. Lecture: MW4-5.30 (E51-335) Recitation: T4 (E25-111)
+______
+Introduction to data mining, data science, and machine learning for recognizing patterns, developing models and predictive analytics, and making intelligent use of massive amounts of data collected via the internet, e-commerce, electronic banking, medical databases, etc. Topics include logistic regression, association rules, tree-structured classification and regression, cluster analysis, discriminant analysis, and neural network methods. Presents examples of successful applications in credit ratings, fraud detection, marketing, customer relationship management, investments, and synthetic clinical trials. Introduces data-mining software (R and Python). Grading based on homework, cases, and a term project. Expectations and evaluation criteria differ for students taking undergraduate version; consult syllabus or instructor for specific details.
+R. Welsch
+No textbook information available
+15.0621 Data Mining: Finding the Models and Predictions that Create Value
+______
+Undergrad (Spring); second half of term
+(Subject meets with 15.062[J], IDS.145[J])
+Prereq: 15.075 or permission of instructor
+Units: 2-0-4
+Add to schedule Begins Apr 3. Lecture: MW4-5.30 (E51-335) Recitation: T4 (E25-111)
+______
+Introduction to data mining, data science, and machine learning for recognizing patterns, developing models and predictive analytics, and making intelligent use of massive amounts of data collected via the internet, e-commerce, electronic banking, medical databases, etc. Topics include logistic regression, association rules, tree-structured classification and regression, cluster analysis, discriminant analysis, and neural network methods. Presents examples of successful applications in credit ratings, fraud detection, marketing, customer relationship management, investments, and synthetic clinical trials. Introduces data-mining software (R and Python). Grading based on homework, cases, and a term project. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details.
+R. Welsch
+No textbook information available
+15.066[J] System Optimization and Analysis for Operations
+______
+Graduate (Summer)
+(Same subject as 2.851[J])
+Prereq: Calculus II (GIR)
+Units: 4-0-8
+______
+Introduction to mathematical modeling, optimization, and simulation, as applied to manufacturing and operations. Specific methods include linear programming, network flow problems, integer and nonlinear programming, discrete-event simulation, heuristics and computer applications for manufacturing processes, operations and systems. Restricted to Leaders for Global Operations students.
+Staff
+15.068 Statistical Consulting
+______
+Graduate (Spring)
+Prereq: 15.060
+Units: 3-0-6
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: MW1-2.30 (E51-057)
+______
+Addresses statistical issues as a consultant would face them: deciphering the client's question; finding appropriate data; performing a viable analysis; and presenting the results in compelling ways. Real-life cases and examples.
+A. Barnett
+No textbook information available
+15.069 Applied Probability and Statistics
+(New)
+______
+Undergrad (Fall) Rest Elec in Sci & Tech
+Prereq: Calculus I (GIR)
+Units: 4-0-8
+______
+Presents probability from the perspective of applied mathematics, with strong emphasis on an intuitive overview of key theorems and continuing demonstrations of their usefulness. Covers the laws of probability and numerous important discrete and continuous random variables, both individually and in combination. Introduces simulation. Offers an introduction to statistics that emphasizes its probabilistic foundations and the fact that statistical reasoning is applied common sense. Covers hypothesis testing, statistical sampling, and various forms of regression analysis. Draws applications from economics, finance, engineering, marketing, public policy, operations management, and operations research.
+A. Barnett
+15.070[J] Discrete Probability and Stochastic Processes
+______
+Graduate (Spring)
+(Same subject as 6.7720[J])
+Prereq: 6.3702, 6.7700, 18.100A, 18.100B, or 18.100Q
+Units: 3-0-9
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: MW2.30-4 (4-149)
+______
+Provides an introduction to tools used for probabilistic reasoning in the context of discrete systems and processes. Tools such as the probabilistic method, first and second moment method, martingales, concentration and correlation inequalities, theory of random graphs, weak convergence, random walks and Brownian motion, branching processes, Markov chains, Markov random fields, correlation decay method, isoperimetry, coupling, influences and other basic tools of modern research in probability will be presented. Algorithmic aspects and connections to statistics and machine learning will be emphasized.
+D. Gamarnik
+No textbook information available
+15.071 The Analytics Edge
+______
+Graduate (Fall, Spring)
+Prereq: None
+Units: 4-0-8
+Credit cannot also be received for 15.0711, 15.072
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: MW1-2.30 (E51-345) or MW2.30-4 (E51-345) Recitation: R9 (E51-345) or R4 (E62-233) or TBA
+______
+Develops models and tools of data analytics that are used to transform businesses and industries, using examples and case studies in e-commerce, healthcare, social media, high technology, criminal justice, the internet, and beyond. Covers analytics methods such as linear regression, logistic regression, classification trees, random forests, neural networks, text analytics, social network analysis, time series modeling, clustering, and optimization. Uses mostly R programming language with some Python. Includes team projects. Meets with 15.0711 when offered concurrently. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details.
+Fall: B. Van Parys
+Spring: R. Freund
+Textbooks (Spring 2023)
+15.0711 The Analytics Edge
+______
+Undergrad (Spring)
+Prereq: None
+Units: 4-0-8
+Credit cannot also be received for 15.071, 15.072
+Add to schedule Lecture: MW1-2.30 (E51-345) or MW2.30-4 (E51-345) Recitation: R9 (E51-345) or R4 (E62-233) or TBA
+______
+Develops models and tools of data analytics that are used to transform businesses and industries, using examples and case studies in e-commerce, healthcare, social media, high technology, criminal justice, the internet, and beyond. Covers analytics methods such as linear regression, logistic regression, classification trees, random forests, neural networks, text analytics, social network analysis, time series modeling, clustering, and optimization. Uses mostly R programming language with some Python. Includes team projects. Meets with 15.071 when offered concurrently. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details.
+R. Freund
+Textbooks (Spring 2023)
+15.072 Advanced Analytics Edge
+______
+Graduate (Fall)
+Prereq: Permission of instructor
+Units: 4-0-8
+Credit cannot also be received for 15.071, 15.0711
+______
+More advanced version of 15.071 introduces core methods of business analytics, their algorithmic implementations and their applications to various domains of management and public policy. Spans descriptive analytics (e.g., clustering, dimensionality reduction), predictive analytics (e.g., linear/logistic regression, classification and regression trees, random forests, boosting deep learning) and prescriptive analytics (e.g., optimization). Presents analytics algorithms, and their implementations in data science. Includes case studies in e-commerce, transportation, energy, healthcare, social media, sports, the internet, and beyond. Uses the R and Julia programming languages. Includes team projects. Preference to Sloan Master of Business Analytics students.
+B. Van Parys
+15.073[J] Applied Probability and Stochastic Models
+______
+Graduate (Fall)
+Not offered regularly; consult department
+(Same subject as 1.203[J], IDS.700[J])
+Prereq: 6.041B or 18.600
+Units: 3-0-9
+______
+A vigorous use of probabilistic models to approximate real-life situations in Finance, Operations Management, Economics, and Operations Research. Emphasis on how to develop a suitable probabilistic model in a given setting and, merging probability with statistics, and on how to validate a proposed model against empirical evidence. Extensive treatment of Monte Carlo simulation for modeling random processes when analytic solutions are unattainable.
+Staff
+15.0741 Predictive Data Analytics and Statistical Modeling
+______
+Undergrad (Spring)
+Not offered regularly; consult department
+Prereq: 6.041B
+Units: 4-0-5
+______
+Provides a brief review of statistics and regression drawn from advanced topics, such as bootstrap resampling, variable selection, data and regression diagnostics, visualization, and Bayesian and robust methods. Covers data-mining and machine learning, including classification, logistic regression, and clustering. Culminates with time series analysis and forecasting, design of experiments, analysis of variance, and process control. Uses statistical computing systems based on application add-ins and stand-alone packages. Case studies involve finance, management science, consulting, risk management, and engineering systems. Term project required.
+Staff
+15.075[J] Statistical Thinking and Data Analysis
+______
+Undergrad (Spring) Institute Lab
+(Same subject as IDS.013[J])
+Prereq: 6.041B or 15.0791
+Units: 3-1-8
+Credit cannot also be received for 18.650, 18.6501, IDS.014
+Add to schedule Lecture: MW10-11.30 (E51-315) Lab: F1 (E51-376)
+______
+Introduces a rigorous treatment of statistical data analysis while helping students develop a strong intuition for the strengths and limitations of various methods. Topics include statistical sampling and uncertainty, estimation, hypothesis testing, linear regression, classification, analysis of variation, and elements of data mining. Involves empirical use of hypothesis testing and other statistical methodologies in several domains, including the assessment of A-B experiments on the web and the identification of genes correlated with diseases.
+M. Fazel Zarandi
+No textbook information available
+15.076 Analytics for a Better World
+______
+Undergrad (Spring) Institute Lab
+Prereq: Calculus I (GIR)
+Units: 4-0-8
+Add to schedule Lecture: MW11.30-1 (E51-315) Recitation: F11.30 (E51-315)
+______
+Introduces predictive and prescriptive analytics methods to solve problems that contribute to the welfare of society. Emphasis on using machine learning and optimization methods in innovative ways using real world data. Methods used include: linear and discrete optimization, linear and logistic regression, optimal classification and regression trees, deep learning, random forests, and boosted trees. Projects utilize Julia, Jump, and Tensor Flow. Assessment based on projects, including a capstone project. Restricted to undergraduates.
+D. Bertsimas
+Textbooks (Spring 2023)
+15.077[J] Statistical Machine Learning and Data Science
+______
+Not offered academic year 2022-2023Graduate (Spring)
+(Same subject as IDS.147[J])
+Prereq: Permission of instructor
+Units: 4-0-8
+______
+Advanced introduction to theory and application of statistics, data-mining and machine learning using techniques from management science, marketing, finance, consulting, and bioinformatics. Covers bootstrap theory of estimation, testing, nonparametric statistics, analysis of variance, experimental design, categorical data analysis, regression analysis, MCMC, and Bayesian methods. Focuses on data mining, supervised learning, and multivariate analysis. Topics chosen from logistic regression; principal components and dimension reduction; discrimination and classification analysis, trees (CART), partial least squares, nearest neighbors, regularized methods, support vector machines, boosting and bagging, clustering, independent component analysis, and nonparametric regression. Uses statistics software R, Python, and MATLAB. Grading based on homework, cases, and a term project.
+R. Welsch
+15.081[J] Introduction to Mathematical Programming
+______
+Graduate (Fall)
+(Same subject as 6.7210[J])
+Prereq: 18.06
+Units: 4-0-8
+______
+Introduction to linear optimization and its extensions emphasizing both methodology and the underlying mathematical structures and geometrical ideas. Covers classical theory of linear programming as well as some recent advances in the field. Topics: simplex method; duality theory; sensitivity analysis; network flow problems; decomposition; robust optimization; integer programming; interior point algorithms for linear programming; and introduction to combinatorial optimization and NP-completeness.
+P. Jaillet
+15.083 Integer Optimization
+______
+Graduate (Spring)
+Prereq: 6.7210 or 15.093
+Units: 4-0-8
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: TR2.30-4 (E62-262) Recitation: F11 (E51-372) +final
+______
+In-depth treatment of mixed-integer optimization. Topics include modeling techniques, combinatorial optimization, ideal formulations, cutting plane methods, branching algorithms, row generation algorithms, column generation algorithms, heuristic algorithms, and mixed-integer non-linear optimization. Instruction provided in modeling complex problems arising in practice; understanding the theory of integer optimization; knowing the core technologies employed within modern solvers; and developing algorithms to solve large-scale problems for which off-the-shelf solvers may not be sufficient. Examples drawn from a broad range of industries, such as transportation, energy, telecommunications, finance, product design, sports, and social networks. Includes a term project.
+A. Jacquillat
+No textbook information available
+15.084[J] Nonlinear Optimization
+______
+Graduate (Spring)
+(Same subject as 6.7220[J])
+Prereq: 18.06 and (18.100A, 18.100B, or 18.100Q)
+Units: 4-0-8
+Add to schedule Lecture: TR11-12.30 (E25-111) Recitation: F10 (36-153) or F11 (36-153) +final
+______
+Unified analytical and computational approach to nonlinear optimization problems. Unconstrained optimization methods include gradient, conjugate direction, Newton, sub-gradient and first-order methods. Constrained optimization methods include feasible directions, projection, interior point methods, and Lagrange multiplier methods. Convex analysis, Lagrangian relaxation, nondifferentiable optimization, and applications in integer programming. Comprehensive treatment of optimality conditions and Lagrange multipliers. Geometric approach to duality theory. Applications drawn from control, communications, machine learning, and resource allocation problems.
+B. Van Parys
+No textbook information available
+15.085[J] Fundamentals of Probability
+______
+Graduate (Fall)
+(Same subject as 6.7700[J])
+Prereq: Calculus II (GIR)
+Units: 4-0-8
+______
+Introduction to probability theory. Probability spaces and measures. Discrete and continuous random variables. Conditioning and independence. Multivariate normal distribution. Abstract integration, expectation, and related convergence results. Moment generating and characteristic functions. Bernoulli and Poisson process. Finite-state Markov chains. Convergence notions and their relations. Limit theorems. Familiarity with elementary probability and real analysis is desirable.
+J. Tsitsiklis
+15.086 Engineering Probability
+______
+Graduate (Summer); first half of term
+Prereq: Calculus I (GIR) and permission of instructor
+Units: 1-0-2
+______
+Introduction to applied probability. Makes real-life problems central to the pedagogy and aims for an intuitive understanding of probability as well as mastery of key probabilistic concepts and methods. Preference to first-year Leaders for Global Operations students.
+A. Barnett
+15.087 Engineering Statistics and Data Science
+______
+Graduate (Summer)
+Prereq: Calculus II (GIR), 15.086, 18.06, and permission of instructor
+Units: 4-0-8
+______
+Develops ideas for making principled decisions and recommendations based on data, providing an introduction to statistical inference and statistical learning. Covers data displays and summary statistics for quantitative and qualitative data, the law of large numbers for means and empirical distributions, the normal distribution and the central limit theorem, confidence intervals, statistical hypothesis tests for the population mean and differences between population means, simple and multiple regression with quantitative data, model selection, the bias-variance tradeoff, logistic regression for binary outcomes, CART, random forests, gradient boosting, and deep learning. The statistical programming language R is used for in-class demonstrations and for out-of-class assignments. Preference to first-year Leaders for Global Operations students. No required textbook.
+Staff
+15.089 Analytics Capstone
+______
+Graduate (IAP, Spring, Summer) Can be repeated for credit
+Prereq: None
+Units arranged
+IAP: Pre-register for IAP Ends Jan 13. Lecture: MWRF9-4 (E51-315)
+Spring:
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: MW1-2.30 (E62-233)
+______
+Practical application of business analytics problems within a real company. Teams of 1-2 students, matched with company projects, visit companies to define project and scope. In class, students refine and improve on projects and devise methods for solving problems for their select companies. Mentors are assigned to each team. The culmination of the program is summer, on-site, practical training. Restricted to Master of Business Analytics students.
+IAP: M. Li, J. Levine
+Spring: M. Li, J. Levine
+Summer: M. Li, J. Levine
+No textbook information available
+15.093[J] Optimization Methods
+______
+Graduate (Fall)
+(Same subject as 6.7200[J], IDS.200[J])
+(Subject meets with 6.7201)
+Prereq: 18.06
+Units: 4-0-8
+______
+Introduces the principal algorithms for linear, network, discrete, robust, nonlinear, and dynamic optimization. Emphasizes methodology and the underlying mathematical structures. Topics include the simplex method, network flow methods, branch and bound and cutting plane methods for discrete optimization, optimality conditions for nonlinear optimization, interior point methods for convex optimization, Newton's method, heuristic methods, and dynamic programming and optimal control methods. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details.
+D. Bertsimas, A. Jacquillat
+15.094[J] Robust Modeling, Optimization, and Computation
+______
+Graduate (Spring)
+(Same subject as 1.142[J])
+Prereq: 18.06 or permission of instructor
+Units: 4-0-8
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: MW4-5.30 (E51-315) Recitation: F11 (E51-325)
+______
+Introduces modern robust optimization, including theory, applications, and computation. Presents formulations and their connection to probability, information and risk theory for conic optimization (linear, second-order, and semidefinite cones) and integer optimization. Application domains include analysis and optimization of stochastic networks, optimal mechanism design, network information theory, transportation, pattern classification, structural and engineering design, and financial engineering. Students formulate and solve a problem aligned with their interests in a final project.
+D. Bertsimas
+Textbooks (Spring 2023)
+15.095 Machine Learning Under a Modern Optimization Lens
+______
+Graduate (Fall)
+Prereq: 6.7210, 15.093, or permission of instructor
+Units: 3-1-8
+______
+Develops algorithms for central problems in machine learning from a modern optimization perspective. Topics include sparse, convex, robust and median regression; an algorithmic framework for regression; optimal classification and regression trees, and their relationship with neural networks; how to transform predictive algorithms to prescriptive algorithms; optimal prescriptive trees; and robust classification.  Also covers design of experiments, missing data imputations, mixture of Gaussian models, exact bootstrap, and sparse matrix estimation, including principal component analysis, factor analysis, inverse co-variance matrix estimation, and matrix completion.
+D. Bertsimas
+15.096 Prediction: Machine Learning and Statistics
+______
+Graduate (Spring)
+Not offered regularly; consult department
+Prereq: None
+Units: 3-0-9
+______
+Gives a practical background and theoretical foundation to machine learning algorithms and Bayesian analysis. Includes an overview of the top ten algorithms in data mining. Covers frameworks for knowledge discovery, a unified view of support vector machines, AdaBoost and regression based on regularized risk minimization; generalization bounds from statistical learning theory based on covering numbers, VC dimension, and the margin theory; as well as basic Bayesian analysis and notes on the history of machine learning and statistics.
+Staff
+15.097 Seminar in Statistics and Data Analysis
+______
+Graduate (Fall)
+Prereq: Permission of instructor
+Units arranged
+______
+Group study of current topics related to statistics and data analysis.
+M. Copenhaver
+15.098 Seminar in Applied Probability and Stochastic Processes
+______
+Graduate (Fall) Can be repeated for credit
+Not offered regularly; consult department
+Prereq: 6.3702
+Units: 2-0-4
+______
+Doctoral student seminar covering current topics in applied probability and stochastic processes.
+Staff
+15.099 Seminar in Operations Research
+______
+Not offered academic year 2022-2023Graduate (Spring) Can be repeated for credit
+Prereq: 6.7210
+Units arranged
+______
+Doctoral student seminar covering current topics related to operations research.
+Staff
+For additional related subjects in Statistics, see:
+
+Civil and Environmental Engineering: 1.151, 1.155, 1.202, 1.203, and 1.205
+
+Electrical Engineering and Computer Science: 6.041, 6.231, 6.245, 6.262, 6.431, and 6.435
+
+Management: 15.034, 15.070, 15.075, and 15.098
+
+Mathematics: 18.05, 18.175, 18.177, 18.440, 18.443, 18.445, and 18.465
+
+See also: 2.830, 5.70, 5.72, 7.02, 8.044, 8.08, 10.816, 11.220, 16.322, 22.38, HST.191, and MAS.622
+
+Health Care Management
+15.110 Operations Research Experience Internship
+(New)
+______
+Graduate (Summer)
+Prereq: None
+Units arranged [P/D/F]
+______
+Required subject in which students engage in an off-campus internship where they build operations research models and work with data that addresses a real-world problem. Internship experience must be at least ten weeks in length and students must have a formal offer letter from their employer or organization. Requirements include a report summarizing how OR models and methods were used by the student participating in the internship and a letter from the internship supervisor. Report must be submitted to the ORC academic administrator upon completion of the internship. Restricted to ORC students. Additional restrictions may apply.
+Staff
+15.128[J] Revolutionary Ventures: How to Invent and Deploy Transformative Technologies
+______
+Graduate (Fall)
+(Same subject as 9.455[J], 20.454[J], MAS.883[J])
+Prereq: Permission of instructor
+Units: 2-0-7
+______
+Seminar on envisioning and building ideas and organizations to accelerate engineering revolutions. Focuses on emerging technology domains, such as neurotechnology, imaging, cryotechnology, gerontechnology, and bio-and-nano fabrication. Draws on historical examples as well as live case studies of existing or emerging organizations, including labs, institutes, startups, and companies. Goals range from accelerating basic science to developing transformative products or therapeutics. Each class is devoted to a specific area, often with invited speakers, exploring issues from the deeply technical through the strategic. Individually or in small groups, students prototype new ventures aimed at inventing and deploying revolutionary technologies.
+E. Boyden, J. Bonsen, J. Jacobson
+15.132[J] Medicine for Managers and Entrepreneurs Proseminar
+______
+Graduate (Spring)
+Not offered regularly; consult department
+(Same subject as HST.972[J])
+Prereq: None
+Units: 3-0-6
+______
+Provides students with basic business-oriented clinical and technological knowledge related to health, healthcare and medicine through engagements with clinical and industry experts. Each session focuses on a specific field of medicine. Speakers include a basic science and/or clinical expert and a CEO or other senior executive involved in cutting-edge innovation in each area.
+Staff
+15.136[J] Principles and Practice of Drug Development
+______
+Graduate (Fall)
+(Same subject as 10.547[J], HST.920[J], IDS.620[J])
+Prereq: Permission of instructor
+Units: 3-0-6
+______
+Description and critical assessment of the major issues and stages of developing a pharmaceutical or biopharmaceutical. Drug discovery, preclinical development, clinical investigation, manufacturing and regulatory issues considered for small and large molecules. Economic and financial considerations of the drug development process. Multidisciplinary perspective from faculty in clinical; life; and management sciences; as well as industry guests.
+S. Finkelstein
+15.137[J] Case Studies and Strategies in Drug Discovery and Development
+______
+Graduate (Spring)
+Not offered regularly; consult department
+(Same subject as 7.549[J], 20.486[J], HST.916[J])
+Prereq: None
+Units: 2-0-4
+______
+Aims to develop appreciation for the stages of drug discovery and development, from target identification, to the submission of preclinical and clinical data to regulatory authorities for marketing approval. Following introductory lectures on the process of drug development, students working in small teams analyze how one of four new drugs or drug candidates traversed the discovery/development landscape. For each case, an outside expert from the sponsoring drug company or pivotal clinical trial principal investigator provides guidance and critiques the teams' presentations to the class.
+A. W. Wood
+15.141[J] Economics of Health Care Industries
+______
+Graduate (Spring); first half of term
+(Same subject as HST.918[J])
+Prereq: None
+Units: 3-0-3
+Credit cannot also be received for 15.1411
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Ends Mar 17. Lecture: TR2.30-4 (E51-335) or TR4-5.30 (E51-335)
+______
+Uses economics as a framework to consider healthcare issues, including differences between health care and other industries, the role of health insurance, regulatory issues and incentives for innovation, data analytics to measure value, personalized/stratified medicines, strategic issues in pricing and marketing, use of e-commerce and information technology, and formation and management of various alliances. Provides a better understanding of the US healthcare landscape, and considers incentives for global health investments. Visiting speakers from industry and academia provide multiple expert viewpoints on these topics. Expectations and evaluation criteria differ for students taking the graduate version; consult syllabus or instructor for specific details.
+J. Doyle
+No textbook information available
+15.1411 Economics of Health Care Industries
+(New)
+______
+Undergrad (Spring); first half of term
+Prereq: None
+Units: 3-0-3
+Credit cannot also be received for 15.141, HST.918
+Add to schedule Ends Mar 17. Lecture: TR2.30-4 (E51-335) or TR4-5.30 (E51-335)
+______
+Uses economics as a framework to consider healthcare issues, including differences between health care and other industries, the role of health insurance, regulatory issues and incentives for innovation, data analytics to measure value, personalized/stratified medicines, strategic issues in pricing and marketing, use of e-commerce and information technology, and formation and management of various alliances. Provides a better understanding of the US healthcare landscape, and considers incentives for global health investments. Visiting speakers from industry and academia provide multiple expert viewpoints on these topics. Expectations and evaluation criteria differ for students taking the undergraduate version; consult syllabus or instructor for specific details.
+J. Doyle
+No textbook information available
+Global Economics & Management
+15.216 Central Banks, Monetary Policy and Global Financial Markets
+______
+Graduate (Spring)
+Prereq: None
+Units: 3-0-6
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: TR4-5.30 (E51-395)
+______
+Explores the role of central banks and monetary policy in the global economy and the effects of their policies on countries, companies and global financial markets. Reviews the decision-making process and policy implementation, and provides conceptual tools for analyzing and predicting central bank decisions and assessing their likely impact. Covers monetary policy, bank regulation and crisis management, drawing on the experience of the Federal Reserve, the ECB and other central banks in advanced and emerging market economies.
+A. Orphanides
+No textbook information available
+15.217 Blockchain Lab
+______
+Graduate (Spring)
+Not offered regularly; consult department
+Prereq: None
+Units: 3-6-3
+______
+Project-based course designed to involve students in the latest developments as companies attempt to integrate blockchain technology into viable business models. With faculty guidance, students form teams and work with the Digital Currency Initiative (MIT Media Lab) member companies on hand-picked projects. Course is a partnership among the DCI, MIT Sloan, and leading, global, forward-looking companies across various industries. Students are responsible for running the projects in a detailed and effective manner with the teaching team providing mentorship and overall structure for learning. Preference to graduate students and undergraduates with strong technical preparation.
+G. Gensler, S. Johnson, N. Narula
+15.218 Global Economic Challenges and Opportunities
+______
+Graduate (Spring)
+Prereq: None
+Units: 3-0-6
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: TR8.30-10 (E62-262) or TR10-11.30 (E62-262)
+______
+In-depth analysis of the major risks and opportunities in the global economy. Analyzes key economic forces and policy responses that shape the business environment and link countries around the world, such as financial crises, monetary and fiscal policy, trade wars, unsustainable debt, exchange rates, and financial contagion. Discusses current global economic issues to develop the tools and frameworks to be able to predict and plan for how governments will respond to different challenges in the future. Some background or coursework in international economics recommended.
+K. Forbes
+No textbook information available
+15.219[J] Global Energy: Politics, Markets, and Policy
+______
+Graduate (Spring)
+Not offered regularly; consult department
+(Same subject as 11.267[J])
+Prereq: None
+Units: 3-0-9
+Credit cannot also be received for 11.167, 14.47, 15.2191, 17.399
+______
+Focuses on the ways economics and politics influence the fate of energy technologies, business models, and policies around the world. Extends fundamental concepts in the social sciences to case studies and simulations that illustrate how corporate, government, and individual decisions shape energy and environmental outcomes. In a final project, students apply the concepts in order to assess the prospects for an energy innovation to scale and advance sustainability goals in a particular regional market. Recommended prerequisite: 14.01. Meets with 15.2191 when offered concurrently. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details.
+Staff
+15.2191[J] Global Energy: Politics, Markets, and Policy
+______
+Undergrad (Spring) HASS Social Sciences
+Not offered regularly; consult department
+(Same subject as 11.167[J], 14.47[J], 17.399[J])
+Prereq: None
+Units: 3-0-9
+Credit cannot also be received for 11.267, 15.219
+______
+Focuses on the ways economics and politics influence the fate of energy technologies, business models, and policies around the world. Extends fundamental concepts in the social sciences to case studies and simulations that illustrate how corporate, government, and individual decisions shape energy and environmental outcomes. In a final project, students apply the concepts in order to assess the prospects for an energy innovation to scale and advance sustainability goals in a particular regional market. Recommended prerequisite: 14.01. Meets with 15.219 when offered concurrently. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details. Preference to juniors, seniors, and Energy Minors.
+Staff
+15.220 New Models for Global Business
+______
+Graduate (Fall); second half of term
+Not offered regularly; consult department
+Prereq: None
+Units: 3-0-3
+______
+Explores international dimensions of strategic management, and equips students to design strategies and structures that work effectively in an increasingly complex world economy. Focuses on a range of industries, from technology-based firms with global roots to emerging market multinationals. Topics include managing and leveraging big data, social and peer-to-peer networks, technology, and talent across national borders to develop capabilities and enhance competitive advantage. Includes a final group project in which students apply class concepts to evaluate strategic options for a startup or established global company of their choice. No final exam.
+Staff
+15.221 Global Strategy and Organization
+______
+Graduate (Spring); first half of term
+Not offered regularly; consult department
+Prereq: None
+Units: 3-0-3
+______
+Focuses on the international dimensions of strategy and organization, and provides a framework for formulating strategies in an increasingly complex world economy, and for making those strategies work effectively. Topics include the globalization of industries, the continuing role of country factors in competition, organization of multinational enterprises, building global networks, and the changing managerial tasks under conditions of globalization. Restricted to Sloan Fellows in Innovation and Global Leadership.
+Staff
+15.223 Global Markets, National Policies and the Competitive Advantages of Firms
+______
+Graduate (Fall); second half of term
+Prereq: None
+Units: 3-0-3
+______
+Examines opportunities and risks firms face in today's global market. Provides conceptual tools for analyzing how governments and social institutions influence economic competition among firms embedded in different national settings. Public policies and institutions that shape competitive outcomes are examined through cases and analytical readings on different companies and industries operating in both developed and emerging markets. Priority to Sloan Fellows MBAs.
+S. Johnson, L. Videgaray
+15.225 Modern Business in China: China Lab
+______
+Graduate (Spring)
+Prereq: None
+Units: 3-0-9
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: MW10-11.30 (E51-149)
+______
+Provides integrated approach to analyze the economy, geopolitics, and geo-economy of China through action learning. Covers modern history, economics, and politics in China that shape the business environment, cases of companies entering or operating in the Chinese market, and project-related issues and personal and learning reflections. Students work in teams to tackle a real world problems and challenges facing organizations in China. Projects focus on dynamic sectors such as artificial intelligence, the sharing economy, social media, health care, energy, and manufacturing. Examples of projects include creating a business plan for fundraising, developing a new market strategy, and assembling financial models. Subject to availability, some projects may explore policy issues. Limited to graduate students who participate in China Lab.
+Y. Huang, J. Grant
+No textbook information available
+15.226 Modern Business in Southeast Asia: ASEAN Lab
+______
+Not offered academic year 2023-2024Graduate (Spring)
+Prereq: None
+Units: 3-0-9
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: MW8.30-10 (E51-149)
+______
+Provides integrated approach to analyze the economies of the Association of Southeast Asian Nations (ASEAN) region — specifically Thailand, Vietnam, Malaysia, and Indonesia — through action learning. Covers modern history, economics, and politics in that region that shape the business environment, cases of companies operating in that region, and project-related issues and personal and learning reflections. Students work in teams to tackle a real world business problem with an entrepreneurial Indian ASEAN-based company and produce a final deliverable for the host company. Projects focus on dynamic sectors such as artificial intelligence, the sharing economy, social media, health care, energy, and manufacturing; examples include creating a business plan for fundraising, developing a new market strategy, and assembling financial models. Limited to graduate students who participate in ASEAN Lab.
+Y. Huang, J. Grant
+No textbook information available
+15.227 - 15.229 Seminar in International Management
+______
+Graduate (Spring) Can be repeated for credit
+Not offered regularly; consult department
+Prereq: None
+Units arranged
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule 15.228: Ends Mar 17. Lecture: M EVE (6-9 PM) (E62-223, E62-250, E62-262)
+______
+Group study of current topics related to international business.
+Staff
+15.228: No textbook information available
+15.230 Public Policy and the Private Sector
+______
+Graduate (Spring)
+Not offered regularly; consult department
+Prereq: None
+Units: 3-0-6
+______
+Explores the intersection of public policy and the private sector. Senior level guests, who have been deeply involved in public policy, will join this discussion-based course weekly focusing on key economic policy choices - touching on technology, trade, tax, financial, macro-economic and competitions policies. Provides a deep understanding of the process by which policy comes to life. Examines how the private sector affects - and sometimes shapes - public policy. Taught through the lens of US policy decision-making; also covers international dimensions.
+G. Gensler, S. Johnson
+15.232 Breakthrough Ventures: Effective Business Models in Frontier Markets
+______
+Graduate (Spring); first half of term
+Prereq: None
+Units: 3-0-3
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Ends Mar 17. Lecture: TR1-2.30 (E51-335)
+______
+Examines how new approaches to operations, revenue, marketing, finance, and strategy enable improved social outcomes in resource-limited settings across Africa, Latin America, and Asia. Draws on system dynamics, design thinking, and strategic analysis. Explores success and failure in attempts to innovate and scale in product and service delivery. Analysis of novel business models draws on case studies, videos, industry reports, research, and guest speakers. Students present their assessments of innovative base-of-the-pyramid enterprises that aim to do more with less. Students who have not taken at least three management or business classes must apply to the instructor for permission to enroll before the first day of class.
+A. Sastry
+No textbook information available
+15.233 Global Health Lab
+______
+Graduate (Spring)
+Not offered regularly; consult department
+Prereq: None
+Units: 3-0-9
+______
+Pairs faculty-mentored student teams with enterprises on the front lines of health care delivery in sub-Saharan Africa and South Asia. Custom-designed projects in strategy, business model innovation, operations, marketing, and technology designed to tackle specific barriers identified by each partnering organization. Interactive cases, practical exercises, and conversations with experts, all designed to support project work before, during, and after an intensive two-week onsite collaboration with entrepreneurs, leaders, staff, and stakeholders. Assignments include a portfolio of host deliverables, a foundational toolkit designed to support each project, and a distillation of learning from the field. Enrolled students must be available to work on site in Africa or South Asia for the entire weeks of SIP and Spring Break. Preference to students who have taken 15.232. Admission by application and interview in the prior November and December. Graduate students only.
+Staff
+15.234[J] Scalable Civic Action
+______
+Not offered academic year 2022-2023Graduate (Fall)
+(Same subject as MAS.720[J])
+Prereq: None
+Units: 2-1-3
+______
+Project-based subject in which students deploy research-based civic, political and organizational engagement tools and analyze their impact and effectiveness. Sample application areas include addressing voter suppression, voter mobilization, and civic group organization. Addresses topics such as randomized controlled testing methods, political campaign techniques, behavioral optimization, and assessment metrics. Students form teams and perform real-world interventions using systems under development in the Media Lab. Open to undergraduates with permission of instructor.
+S. Johnson, A. Lippman
+15.235 Blockchain and Money
+______
+Graduate (Fall)
+Prereq: None
+Units: 3-0-3
+______
+Explores blockchain technology's potential use - by entrepreneurs and incumbents - to change the world of money and finance. Begins with a review of the technology's initial application, the cryptocurrency Bitcoin, giving students an understanding of the commercial, technical and public policy fundamentals of blockchain technology, distributed ledgers and smart contracts in both open-sourced and private applications. Focuses on current and potential blockchain applications in the financial sector. Includes reviews of potential use cases for payment systems, central banking, venture capital, secondary market trading, trade finance, commercial banking, post-trade possessing, and digital ID. Also explores the markets and regulatory landscape for cryptocurrencies, initial coin offerings, other tokens, and crypto derivatives. Open to undergraduates with permission of instructor.
+S. Johnson
+15.236 Global Business of Artificial Intelligence and Robotics (GBAIR)
+______
+Graduate (Spring)
+Prereq: Permission of instructor
+Units: 2-2-2
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Ends Mar 17. Lecture: TR EVE (5.30-7 PM) (E62-223)
+______
+Discussion based-course examines applications of artificial intelligence and robotics in the business world. Emphasizes understanding the likely direction of technology and how it is likely to be used. Students examine particular applications to deepen their understanding of topical issues. Also focuses on how global economies will change in light of this wave of technology. Preference to Sloan graduate students.
+S. Johnson, J. Ruane, L. Videgaray
+No textbook information available
+15.237[J] China's Urbanization, Digital Technology and Innovation Market
+______
+Graduate (Spring); first half of term
+Not offered regularly; consult department
+(Same subject as 11.366[J])
+Prereq: None
+Units: 3-0-3 [P/D/F]
+______
+Focuses on the digital/smart city and on the urbanization of China, the world's biggest digital market. Explores the challenges, tradeoffs and issues associated with venture entering China's urbanization market, and guides teams to establish key connections with local partners, customers, and other stakeholders. Student teams apply this knowledge to an innovation and entrepreneurship-focused action learning project in which they work towards launching pilots and establishing ventures in China. Students taking graduate version complete additional assignments.
+Staff
+15.2371[J] China's Urbanization, Digital Technology and Innovation Market
+______
+Undergrad (Spring); first half of term
+Not offered regularly; consult department
+(Same subject as 11.066[J])
+Prereq: None
+Units: 3-0-3 [P/D/F]
+______
+Focuses on the digital/smart city and on the urbanization of China, the world's biggest digital market. Explores the challenges, tradeoffs and issues associated with venture entering China's urbanization market, and guides teams to establish key connections with local partners, customers, and other stakeholders. Student teams apply this knowledge to an innovation and entrepreneurship-focused action learning project in which they work towards launching pilots and establishing ventures in China. Students taking graduate version complete additional assignments.
+Staff
+15.238[J] Shaping the Future of Technology: From Early Agriculture to Artificial Intelligence
+(New)
+______
+Undergrad (Spring) HASS Social Sciences Communication Intensive HASS
+(Same subject as 14.78[J])
+Prereq: None
+Units: 4-0-8
+Add to schedule Lecture: TR2.30-4 (E51-376) Recitation: F2 (E51-376) or F3 (E51-376)
+______
+Provides a framework for thinking about major technological transitions over the past 12,000 years as a means to explore paths to a better future. Discusses who gains or loses from innovation and who can shape the future of artificial intelligence, biotech, and other breakthroughs. Introduces major questions tackled by researchers and relevant to economic policy through faculty lectures, interactive events with prominent guests, and group work. Instruction and practice in oral and written communication provided.
+D. Acemoglu, S. Johnson
+No textbook information available
+15.239[J] China's Growth: Political Economy, Business, and Urbanization
+______
+Graduate (Spring); second half of term
+(Same subject as 11.257[J])
+(Subject meets with 11.157[J], 15.2391[J])
+Prereq: None
+Units: 3-0-3
+Add to schedule Begins Apr 3. Lecture: TR2.30-4 (9-354)
+______
+Examines different aspects of the growth of China, which has the second largest economy in the world. Studies the main drivers of Chinese economic growth and the forces behind the largest urbanization in human history. Discusses how to understand China's booming real estate market, and how Chinese firms operate to attain their success, whether through hard-working entrepreneurship or political connections with the government. Explores whether the top-down urban and industrial policy interventions improve efficiency or cause misallocation problems, and whether the Chinese political system in an enabler of Chinese growth or a potential impediment to the country's future growth prospects. Students taking graduate version complete additional assignments.
+S. Zheng
+No textbook information available
+15.2391[J] China's Growth: Political Economy, Business, and Urbanization
+______
+Undergrad (Spring); second half of term
+(Same subject as 11.157[J])
+(Subject meets with 11.257[J], 15.239[J])
+Prereq: None
+Units: 3-0-3
+Add to schedule Begins Apr 3. Lecture: TR2.30-4 (9-354)
+______
+Examines different aspects of the growth of China, which has the second largest economy in the world. Studies the main drivers of Chinese economic growth and the forces behind the largest urbanization in human history. Discusses how to understand China's booming real estate market, and how Chinese firms operate to attain their success, whether through hard-working entrepreneurship or political connections with the government. Explores whether the top-down urban and industrial policy interventions improve efficiency or cause misallocation problems, and whether the Chinese political system in an enabler of Chinese growth or a potential impediment to the country's future growth prospects. Students taking graduate version complete additional assignments.
+Y. Huang, S. Zheng, Z. Tan
+No textbook information available
+15.248 Israel Lab: Startup Nation's Entrepreneurship and Innovation Ecosystem
+______
+Graduate (Fall, IAP); second half of term
+Prereq: None
+Units: 3-0-6
+Pre-register for IAP Begins Jan 30. Lecture: F11.30-1.30 (E62-250)
+______
+Practical study of Israel's innovation and entrepreneurial ecosystem. On-campus component provides context about the country and its social and geopolitical issues as they pertain to business in Israel; REAP Stakeholder Model, entrepreneurship lessons, Israeli business culture, and team dynamics. During IAP, student teams work at the Israeli host organizations in Tel Aviv on complex problems in critical areas, such as big data/analytics, computing technologies, life sciences, robotics, Fintech, and cybersecurity, with an emphasis on early stage ventures and their growth. Provides students an opportunity to engage directly with startup CEOs and venture capitalists. Limited to graduate students and Sloan undergraduates, application required for Sloan undergraduates.
+Fall: J. Cohen
+IAP: J. Cohen
+No textbook information available
+History, Environment and Ethics
+15.268 Choice Points: Thinking about Life and Leadership through Literature
+______
+Graduate (Spring)
+Prereq: None
+Units: 3-0-6 [P/D/F]
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: F10-12 (E51-345)
+______
+Explores decision making and leadership. Analyzes the dilemmas and decisions characters face in a selection of plays, stories, and films. Provokes reflection on what constitutes effective and moral reasoning in critical moments of both life and leadership.  Restricted to Sloan Fellow MBAs.
+C. Turco
+Textbooks (Spring 2023)
+15.269 Leadership Stories: Literature, Ethics, and Authority
+______
+Graduate (Fall)
+Prereq: None
+Units: 3-0-6
+______
+Explores how we use story to articulate ethical norms. The syllabus consists of short fiction, novels, plays, feature films and some non-fiction. Major topics include leadership and authority, professionalism, the nature of ethical standards, social enterprise, and questions of gender, cultural and individual identity, and work/life balance. Materials vary from year to year, but past readings have included work by Chimamanda Ngozi Adichie, Seamus Heaney, Aravind Adiga, Ursula LeGuin, Hao Jingfang, Mohsin Hamid, and others; films have included The Lives of Others, Daughters of the Dust, Hotel Rwanda, Hamilton, and others. Draws on various professions and national cultures, and is run as a series of moderated discussions, with students centrally engaged in the teaching process.
+L. Hafrey
+Communication
+15.270 Ethical Practice: Leading Through Professionalism, Social Responsibility, and System Design
+______
+Graduate (Spring); second half of term
+Prereq: None
+Units: 3-0-3
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Begins Apr 3. Lecture: MW1-2.30 (E62-223)
+______
+Introduction to ethics in business, with a focus on business management. Students explore theoretical concepts in business ethics, and cases representing the challenges they will likely face as managers. Opportunity to work with guest faculty as well as business and other professional practitioners. Individual sessions take the form of moderated discussion, with occasional short lectures from instructor.
+L. Hafrey
+No textbook information available
+15.276 Communicating with Data
+______
+Undergrad (Fall, Spring)
+Prereq: None
+Units: 3-0-9
+Add to schedule Lecture: TR11.30-1 (E62-221) or TR1-2.30 (E62-221) or MW2.30-4 (E62-221)
+______
+Equips students with the strategies, tactics, and tools to use quantitative information to inform and persuade others. Emphasizes effective communication skills as the foundation of successful careers. Develops the skills to communicate quantitative information in a business context to drive people and organizations toward better decisions. Focuses heavily on the cycle of practicing, reflecting, and revising. Students receive extensive, personalized feedback from teaching team and classmates. Limited to 25; priority to 15-2 and 6-14 majors.
+Fall: C. Cullen, M. Webster
+Spring: L. Breslow, C. Cullen
+Textbooks (Spring 2023)
+15.277 Seminar in Communications
+______
+Graduate (Spring) Can be repeated for credit
+Not offered regularly; consult department
+Prereq: None
+Units arranged
+______
+Group study of current topics related to communication.
+Staff
+15.278 Seminar in Communications
+______
+Graduate (Spring) Can be repeated for credit
+Not offered regularly; consult department
+Prereq: None
+Units arranged [P/D/F]
+______
+Group study of current topics related to communication.
+Staff
+15.279 Management Communication for Undergraduates
+______
+Undergrad (Spring)
+Prereq: None
+Units: 3-0-9
+Add to schedule Lecture: TR2.30-4 (E62-221)
+______
+Develops writing, speaking, teamwork, interpersonal, social media, and cross-cultural communication skills necessary for management professionals. Assignments include creating persuasive memos, writing in response to cases, and giving presentations. Major project involves the production of a team report and presentation on a topic of interest to a professional audience.
+M. Webster
+No textbook information available
+15.280 Communication for Leaders
+______
+Graduate (Fall)
+Prereq: Permission of instructor
+Units: 3-1-5
+Credit cannot also be received for 15.710
+______
+Students develop and polish communication strategies and methods through discussion, examples, and practice. Emphasizes writing and speaking skills necessary for effective leaders. Includes several oral and written assignments which are integrated with other subjects, and with career development activities, when possible. Schedule and curriculum coordinated with Organizational Processes. Mandatory one hour recitation in small groups. Restricted to first-year Sloan graduate students.
+N. Hartman
+15.281 Advanced Leadership Communication
+______
+Graduate (Spring)
+Prereq: 15.279, 15.280, or permission of instructor
+Units: 3-0-6
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: MW1-2.30 (E62-250) or MW2.30-4 (E62-250) or TR10-11.30 (E51-372) or TR1-2.30 (E62-250)
+______
+Introduces interactive oral and interpersonal communication skills critical to leaders, including strategies for presenting to a hostile audience, running effective and productive meetings, active listening, and contributing to group decision-making. Includes team-run classes on chosen communication topics, and an individual analysis of leadership qualities and characteristics. Students deliver an oral presentation and an executive summary, both aimed at a business audience.
+N. Hartman, V. Healy-Tangney, S. Springer
+No textbook information available
+15.282 EnActing Leadership: Shakespeare and Performance
+______
+Graduate (Spring)
+Not offered regularly; consult department
+Prereq: None
+Units: 3-0-6
+______
+Uses Shakespeare to challenge students' views of leadership and provide them with a deeper understanding of their performance as a leader. While performing shortened versions of Shakespeare's plays, students consider the serious questions they raise about the nature of leadership, power, and ambition, and explore their own leadership presence. Uses acting to strengthen speaking ability and personal presence.
+Staff
+15.283 Social Media Management: Persuasion in Networked Culture
+______
+Graduate (Spring)
+Prereq: None
+Units: 3-0-6
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: W EVE (4-7 PM) (E51-151)
+______
+Explores how organizations and leaders can maximize the business value of social media platforms. Provides a framework and best practices for social media management, enhances understanding of strategic communication within the social media context, and improves social media communication skills. Assignments include case analysis, weekly content creation, and a final group project on social media strategy and content.
+B. Shields
+Textbooks (Spring 2023)
+15.284 Strategic Leadership Communication
+______
+Graduate (Fall); partial term
+Prereq: None
+Units: 3-0-3
+______
+Introduces the essentials of how individuals and organizations develop and implement effective communication strategies, focusing on persuasion, audience analysis, communicator credibility, message construction, and delivery. Includes oral presentations and writing assignments with feedback to help students improve their communication effectiveness. Provides instruction to create communication strategies, develop and present clearly organized and powerful presentations, expand personal oral delivery and writing styles, and enhance presentations through effective visual aids. Restricted to Sloan Fellow MBAs.
+N. Hartman, L. Breslow
+15.285 Sports Strategy and Analytics
+______
+Graduate (Spring); second half of term
+Prereq: None
+Units: 3-0-3
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Begins Apr 3. Lecture: T EVE (4-7 PM) (E62-250)
+______
+Explores how leaders and organizations apply data and analytics to gain a competitive edge in the multibillion-dollar global sports industry. Provides context on the structure and dynamics of the sports industry, discusses best practices in data-driven decision making both on- and off-the-field, and improves students' skills in analyzing and communicating data. Assignments include a decision analysis paper and a final team project in which students apply their skills to solve a problem in sports.
+B. Shields
+No required or recommended textbooks
+15.286 Communicating with Data
+______
+Graduate (Spring); first half of term
+Prereq: 15.280, 15.284, or permission of instructor
+Units: 3-0-3
+Credit cannot also be received for 15.287, 15.721
+Sloan bid You must participate in Sloan's Course Bidding to take this subject.
+Add to schedule Lecture: MW1-2.30 (ENDS MAR 17) (E51-149) or MW2.30-4 (ENDS MAR 17) (E51-145) or TR10-11.30 (ENDS MAR 17) (E51-145) or TR1-2.30 (ENDS MAR 17) (E62-233) or MW1-2.30 (BEGINS APR 3) (E51-149) or MW2.30-4 (BEGINS APR 3) (E51-145) or TR10-11.30 (BEGINS APR 3) (E51-145) or TR1-2.30 (BEGINS APR 3) (E62-233)
+______
+Focuses on structuring the oral and visual communication of data. Introduces these concepts and a methodology of self-reflection to help one accelerate his or her life-long learning process. Improves students' ability to develop strategic communications that use data to persuade others to take action. Primary focus is on reducing barriers to action by making data as easy as possible for others to absorb through clear structure, clear design, and clear delivery. Significant time will be devoted to practice. Students give and receive substantial feedback on their work.
+M. Kazakoff, A. Mehrotra
+Textbooks (Spring 2023)
+15.287 Communication and Persuasion Through Data
+______
+Graduate (IAP)
+Prereq: None
+Units: 2-0-1
+Credit cannot also be received for 15.286, 15.721
+Pre-register for IAP Lecture: TTWR2.30-4 (E51-372, E51-376)
+______
+Focuses on the strategic and tactical use of data to move others to take (the correct) action. Sharpens communication skills via practice and real-world examples. Students spend significant time writing, speaking and designing visuals for a professional audience. Intended for students who expect to communicate quantitative information with non-experts inside and outside of their organizations, as well as students seeking to improve communication skills in general. Restricted to Sloan Master of Business Analytics students.
+IAP: A. Telio, C. Cullen
+Spring: C. Cullen
+No textbook information available
+15.288 Tough Conversations: Science, Strategies & Skills for Communicating About & Across Difference
+(New)
+______
+Graduate (Fall)
+Prereq: None
+Units: 3-0-3
+______
+Equips managers with the knowledge and skills to productively navigate conversations about race, gender, and other aspects of social identities at work. Analyzes the structure of difficult conversations, investigates the research on conversational dynamics, and explores strategies for speaking up in organizations. Significant class time is devoted to experiential exercises. Weekly assignments include individual written reflections based on readings and research. For the final project, students write a short case, record a conversation, and assess their work. Restricted to second-year MBA students.
+K. Blackburn
+15.289 Doctoral Seminar: Communication Skills for Academics
+______
+Graduate (Spring)
+Not offered regularly; consult department
+Prereq: Permission of instructor
+Units: 3-0-3
+______
+Focuses on the communication skills needed for a career in academia. Topics include writing for academic journals, preparing and delivering conference papers and job talks, creating your professional presence on social media, peer reviewing for journals and conferences, and teaching. Participants are expected to work on a written project and deliver an oral presentation based on their current research. Limited to 20; priority to Sloan doctoral students who have completed their first year.
+L. Breslow
