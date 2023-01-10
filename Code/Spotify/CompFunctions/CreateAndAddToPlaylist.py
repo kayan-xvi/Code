@@ -44,10 +44,10 @@ def Create_And_Add_To_Playlist(inputPlaylist, newPlaylistName):
       trackIds=idListing
     )
 
-    print(len(idListing))
+    #print(len(idListing))
     for i in range(len(idListing)): 
-      print(trackFeatures['audio_features'][i]['energy'])
-      if trackFeatures['audio_features'][i]['energy'] < 0.6 and trackFeatures['audio_features'][i]['tempo'] < 100: # Change this line to filter
+      #print(trackFeatures['audio_features'][i]['energy'])
+      if trackFeatures['audio_features'][i]['instrumentalness'] > 0.75 and trackFeatures['audio_features'][i]['speechiness'] < 0.06 and trackFeatures['audio_features'][i]['danceability'] < 0.3 and trackFeatures['audio_features'][i]['energy'] < 0.1 and trackFeatures['audio_features'][i]['loudness'] < -20 : # Change this line to filter
         idListToAdd.append(idListing[i])
     #print(idListToAdd)
     idListToAdd = Check_If_In_Playlist(idSongsAlreadyInPlaylist, idListToAdd)

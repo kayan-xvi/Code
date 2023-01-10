@@ -29,7 +29,7 @@ def Get_Playlist_Items (playlistId, offset=0):
     #print(item)
     #uriListing.append(item['track']['uri'])
     idListing.append(item['track']['id'])
-    print(item['track']['name'])
+    #print(item['track']['name'])
   #print(resp)
   moreNext = False
   # print(resp['next'])

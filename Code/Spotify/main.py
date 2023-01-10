@@ -10,6 +10,10 @@ from Data.users import *
 # The convention is them requiring userId, then other parameters
 from CompFunctions.CreateAndAddToPlaylist import * 
 from CompFunctions.CopyToPlaylist import *
+from CompFunctions.gatherPlaylistFeatures import * 
+
+# This imports all individual functions 
+
 
 # def possible(): 
 
@@ -114,4 +118,10 @@ from CompFunctions.CopyToPlaylist import *
 
 
 #Create_And_Add_To_Playlist(playlistIds.StarWarsSoundtracks, 'ChilledSW') 
-Copy_To_Playlist(playlistIds.ChillStarWars, '4cgxa3Jd6VA1m8UJfnkQxO')
+#Copy_To_Playlist(playlistIds.ChillStarWars, '4cgxa3Jd6VA1m8UJfnkQxO')
+
+def main(): 
+    #Get_Playlists_Features(playlistIds.ChillStarWars)
+    Create_And_Add_To_Playlist(playlistIds.StarWarsSoundtracks, 'chill test')
+
+main()
