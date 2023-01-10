@@ -23,7 +23,7 @@ def Get_Playlists_Features(playlistId):
     energy = playlistFeatures['energy']
     # key refers to the pitch - C == 0 all the way up to 11, no key detected == -1 
     key = playlistFeatures['key']
-    # loudness is between -60 and 0 db
+    # loudness is between -60 and 0 db, more negative is quieter 
     loudness = playlistFeatures['loudness']
     # mode refers to major or minor - major == 1 and minor == 0 
     mode = playlistFeatures['mode']
