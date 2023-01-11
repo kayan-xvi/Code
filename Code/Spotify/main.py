@@ -121,7 +121,7 @@ from CompFunctions.gatherPlaylistFeatures import *
 #Copy_To_Playlist(playlistIds.ChillStarWars, '4cgxa3Jd6VA1m8UJfnkQxO')
 
 def main(): 
-    #Get_Playlists_Features(playlistIds.ChillStarWars)
-    Create_And_Add_To_Playlist(playlistIds.StarWarsSoundtracks, 'chill test')
+    Get_Playlists_Features(playlistIds.Lonely4am)
+    #Create_And_Add_To_Playlist(playlistIds.StarWarsSoundtracks, 'chill test')
 
 main()

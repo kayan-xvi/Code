@@ -51,3 +51,5 @@ def Get_Playlists_Features(playlistId):
     print(f'valence: \nMean = {statistics.mean(valence)} \nStdDev = {statistics.stdev(valence)}')
     print(f'tempo: \nMean = {statistics.mean(tempo)} \nStdDev = {statistics.stdev(tempo)}')
     #print(f'timeSignature: \nMean = {statistics.mean(timeSignature)} \nStdDev = {statistics.stdev(timeSignature)}')
+
+    
