@@ -16,38 +16,30 @@ from CompFunctions.Functions.checkIfInPlaylist import *
 def Create_And_Add_To_Playlist(inputPlaylist, newPlaylistName):
   # This makes a playlist, and adds songs from another playlist with certain features 
 
-  newPlaylistId= Create_Playlist(
+  newPlaylistId = Create_Playlist(
     userId = userIds.KVI,
     newPlaylistName = newPlaylistName,
     wantToBePublic = True
   )
 
-  moreNext = True 
-  offset = 0
   idSongsAlreadyInPlaylist = [] 
-  while moreNext == True: 
-    idSongsAlreadyInPlaylist, moreNext = Get_Playlist_Items(
-      playlistId = newPlaylistId,
-      offset=offset
-    )
-  offset = 0
-  moreNext = True 
-  while moreNext == True: 
-    idListing, moreNext = Get_Playlist_Items(
-      playlistId = inputPlaylist, # This is the playlist input 
-      offset = offset
-    )
-    offset += 100
-    idListToAdd = []
 
-    trackFeatures = Get_Many_Tracks_Features(
-      trackIds=idListing
-    )
+  idSongsAlreadyInPlaylist = Get_Playlist_Items(
+    playlistId = newPlaylistId
+  )
 
+  idListing = Get_Playlist_Items(
+    playlistId = inputPlaylist # This is the playlist input 
+  )
+
+  trackFeatures = Get_Many_Tracks_Features(
+    trackIds=idListing
+  )
+if 1 == 1: 
     #print(len(idListing))
     for i in range(len(idListing)): 
       #print(trackFeatures['audio_features'][i]['energy'])
-      if trackFeatures['audio_features'][i]['instrumentalness'] < 0.2 and trackFeatures['audio_features'][i]['speechiness'] > 0.7 and 0.4 < trackFeatures['audio_features'][i]['danceability'] < 0.75 and trackFeatures['audio_features'][i]['energy'] > 0.5 and trackFeatures['audio_features'][i]['loudness'] > -20 : # Change this line to filter
+      #if trackFeatures['audio_features'][i]['instrumentalness'] < 0.2 and trackFeatures['audio_features'][i]['speechiness'] > 0.7 and 0.4 < trackFeatures['audio_features'][i]['danceability'] < 0.75 and trackFeatures['audio_features'][i]['energy'] > 0.5 and trackFeatures['audio_features'][i]['loudness'] > -20 : # Change this line to filter
       #if trackFeatures['audio_features'][i]['energy'] < energy: 
         idListToAdd.append(idListing[i])
     #print(idListToAdd)

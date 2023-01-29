@@ -3,7 +3,7 @@ import statistics
 import matplotlib.pyplot as plt
 
 from CompFunctions.Functions.getPlaylistItems import *
-from CompFunctions.Functions.getManyTracksFeatures import *
+from CompFunctions.Functions.getTracksFeatures import *
 
 def Get_Playlists_Features(playlistId): 
     playlistItems, moreNext = Get_Playlist_Items(playlistId) 
@@ -53,18 +53,21 @@ def Get_Playlists_Features(playlistId):
     print(f'tempo: \nMean = {statistics.mean(tempo)} \nStdDev = {statistics.stdev(tempo)}')
     #print(f'timeSignature: \nMean = {statistics.mean(timeSignature)} \nStdDev = {statistics.stdev(timeSignature)}')
 
+    playlistInfo = {
+        'danceabilityMean': statistics.mean(danceability), 'danceabilityStd' : statistics.stdev(danceability),
+        'energyMean' : statistics.mean(energy), 'energyStd': statistics.stdev(energy), 
+        'keyMean' : statistics.mean(key), 'keyStd' :statistics.stdev(key),
+        'loudnessMean' : statistics.mean(loudness), 'loudnessStd' : statistics.stdev(loudness), 
+        'modeMean' : statistics.mean(mode), 'modeStd' : statistics.stdev(mode),
+        'speechinessMean' : statistics.mean(speechiness), 'speechniessStd' : statistics.stdev(speechiness),
+        'acousticnessMean' : statistics.mean(acousticness), 'acousticnessStd' : statistics.stdev(acousticness), 
+        'instrumentalnessMean' : statistics.mean(instrumentalness), 'instrumentalness' : statistics.stdev(instrumentalness),
+        'livenessMean' : statistics.mean(liveness), 'liveness' : statistics.stdev(liveness),
+        'valenceMean' : statistics.mean(valence), 'valenceStd' : statistics.stdev(valence), 
+        'tempoMean' : statistics.mean(tempo), 'tempoStd' : statistics.stdev(tempo), 
+        'timeSignatureMean' : statistics.mean(timeSignature), 'timeSignatureMean' : statistics.stdev(timeSignature)
+        }
 
-    data = [energy, danceability, key, loudness, speechiness, acousticness, instrumentalness, valence]
-    plt.boxplot(data)
-    #plt.scatter(energy,tempo)
-    plt.show()
-
-    return [
-        statistics.mean(danceability), statistics.stdev(danceability),
-        statistics.mean(energy), statistics.stdev(energy), statistics.mean(key), statistics.stdev(key),
-        statistics.mean(loudness), statistics.stdev(loudness), statistics.mean(speechiness), statistics.stdev(speechiness),
-        statistics.mean(acousticness), statistics.stdev(acousticness), statistics.mean(instrumentalness), statistics.stdev(instrumentalness),
-        statistics.mean(valence), statistics.stdev(valence), statistics.mean(tempo), statistics.stdev(tempo)
-    ]
+    return playlistInfo
 
     

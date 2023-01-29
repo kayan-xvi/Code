@@ -9,6 +9,7 @@ class playlistClass:
     self.iDTOPNbT = '4MGPzgnpIDVMtbGwgjhKEj'
     self.StarWarsSoundtracks = '0yDagEjoveJC0dVWBJecU2'
     self.ChillStarWars = '02aBXH5VLdaztpV9EYNET4'
+    self.Static = '00IILvCpesQI1HN7u31RQb'
 
 
 playlistIds = playlistClass()

@@ -10,7 +10,7 @@ from CompFunctions.Functions.createPlaylist import *
 from CompFunctions.Functions.addTracksToPlaylist import *
 from CompFunctions.Functions.getPlaylistItems import *
 from CompFunctions.Functions.getTrackFeatures import *
-from CompFunctions.Functions.getManyTracksFeatures import * 
+from CompFunctions.Functions.getTracksFeatures import * 
 from CompFunctions.Functions.checkIfInPlaylist import * 
 
 def Create_And_Add_To_Specified_Playlist(inputPlaylist, newPlaylistName, features):
