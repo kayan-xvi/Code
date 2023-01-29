@@ -1,5 +1,6 @@
 import requests 
 import statistics
+import matplotlib.pyplot as plt
 
 from CompFunctions.Functions.getPlaylistItems import *
 from CompFunctions.Functions.getManyTracksFeatures import *
@@ -51,5 +52,19 @@ def Get_Playlists_Features(playlistId):
     print(f'valence: \nMean = {statistics.mean(valence)} \nStdDev = {statistics.stdev(valence)}')
     print(f'tempo: \nMean = {statistics.mean(tempo)} \nStdDev = {statistics.stdev(tempo)}')
     #print(f'timeSignature: \nMean = {statistics.mean(timeSignature)} \nStdDev = {statistics.stdev(timeSignature)}')
+
+
+    data = [energy, danceability, key, loudness, speechiness, acousticness, instrumentalness, valence]
+    plt.boxplot(data)
+    #plt.scatter(energy,tempo)
+    plt.show()
+
+    return [
+        statistics.mean(danceability), statistics.stdev(danceability),
+        statistics.mean(energy), statistics.stdev(energy), statistics.mean(key), statistics.stdev(key),
+        statistics.mean(loudness), statistics.stdev(loudness), statistics.mean(speechiness), statistics.stdev(speechiness),
+        statistics.mean(acousticness), statistics.stdev(acousticness), statistics.mean(instrumentalness), statistics.stdev(instrumentalness),
+        statistics.mean(valence), statistics.stdev(valence), statistics.mean(tempo), statistics.stdev(tempo)
+    ]
 
     
