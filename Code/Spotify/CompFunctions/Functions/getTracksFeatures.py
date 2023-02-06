@@ -6,7 +6,7 @@ from CompFunctions.Functions.splitToHundreds import *
 def Get_Tracks_Features (trackIds):
   '''
   This gets the features of a list of max 100 songs 
-  Requires a list of track ids 
+  Requires a list of track ids and the track list with nulls removed
   
   Possible keys: 
   acousticness
@@ -48,4 +48,19 @@ def Get_Tracks_Features (trackIds):
     resp = response.json()
     #print(resp['audio_features'])
     features.extend(resp['audio_features'])
-  return features
+    #print(features)
+    #for song in features:
+      #print(song['speechiness']+song['instrumentalness'])
+    
+    nullSongs = []
+    counter = 0
+    for song in reversed(features): 
+      if song == None: 
+        nullSongs.append(trackIds[counter])
+        features.remove(song)
+      counter += 1 
+    for null in nullSongs: 
+      trackIds.remove(null)
+      #print('removed')
+
+  return features, trackIds

@@ -1,5 +1,4 @@
-from CompFunctions.gatherPlaylistFeatures import *
-from CompFunctions.createAndAddToSpecifiedPlaylist import *
+from CompFunctions.getPlaylistFeatures import *
 
 
 def Make_Similar_Playlist(songSourcePlaylist, featureSourcePlaylist, newPlaylistName): 

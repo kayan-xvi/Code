@@ -9,13 +9,12 @@ from Data.users import *
 from CompFunctions.Functions.createPlaylist import *
 from CompFunctions.Functions.addTracksToPlaylist import *
 from CompFunctions.Functions.getPlaylistItems import *
-from CompFunctions.Functions.getTrackFeatures import *
 from CompFunctions.Functions.getTracksFeatures import * 
 from CompFunctions.Functions.checkIfInPlaylist import * 
 
 def Copy_To_Playlist(copyFromPlaylist, copyToPlaylist):
   '''
-  This adds songs from another playlist to an existing playlist 
+  This adds songs from another playlist to an existing playlist, taking in playlist ids
   Checks for duplicates 
   '''
   #print('started')
