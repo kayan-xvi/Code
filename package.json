@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@carbon/charts-react": "^1.7.6",
+    "@carbon/colors": "^11.14.0",
+    "@carbon/icons-react": "^11.19.0",
+    "@carbon/react": "^1.28.0",
+    "@storybook/addon-actions": "^7.0.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

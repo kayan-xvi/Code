@@ -1,0 +1,60 @@
+html {
+  background-color: rgb(39, 39, 39);
+  height: 100%;
+}
+
+.centre {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.badgeImage {
+  width: 100%;
+}
+
+.black {
+  background-color: rgb(0, 0, 0);
+
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  padding: 4% 10%;
+  grid-gap: 6% 2%;
+  margin: 1rem;
+  min-height: 400px;
+}
+
+.pageWrapper{
+  min-height: 100vh;
+  margin-top:3rem;
+  max-width: 100vw;
+}
+
+.app {
+  min-height: 100%;
+  position: relative;
+}
+
+.graph { 
+  padding: 8% 70px;
+}
+
+.chart { 
+  background-color: red;
+}
+
+
+.meterGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 8% 70px;
+  padding-top: 100px;
+  grid-gap: 6% 2%;
+  //min-height: 400px;
+  background-color: rgb(0, 0, 0);
+  max-width: 100vw;
+}
