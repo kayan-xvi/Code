@@ -1,8 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.scss';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.scss";
+import App from "./App";
 import {
   HeaderContainer,
   Header,
@@ -10,42 +9,25 @@ import {
   HeaderMenuButton,
   HeaderName,
   HeaderNavigation,
-  HeaderMenuItem,
-  HeaderMenu,
   HeaderGlobalBar,
-  HeaderGlobalAction,
-  Search,
   SideNav,
   SideNavItems,
-  SideNavMenu,
-  SideNavMenuItem,
   Theme,
-  SideNavLink
-} from '@carbon/react';
-import { 
-  Bee, 
-  Badge, 
-  ChartColumn
-} from "@carbon/icons-react";
+  SideNavLink,
+} from "@carbon/react";
+import { Popup ,Badge, ChartColumn, Events, Camera, ViewNext} from "@carbon/icons-react";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    { /*
-    <Header aria-label="IBM Platform Name">
-       <HeaderName href="#" prefix="IBM">
-         [Platform]
-       </HeaderName>
-     </Header>
-     */ } 
-     <Theme theme="g100">
+    <Theme theme="g100">
       <HeaderContainer
         render={({ isSideNavExpanded, onClickSideNavExpand }) => (
           <>
             <Header aria-label="Header">
               <SkipToContent />
               <HeaderMenuButton
-                aria-label={isSideNavExpanded ? 'Close menu' : 'Open menu'}
+                aria-label={isSideNavExpanded ? "Close menu" : "Open menu"}
                 isCollapsible
                 onClick={onClickSideNavExpand}
                 isActive={isSideNavExpanded}
@@ -53,40 +35,34 @@ root.render(
               <HeaderName href="#" prefix="Kayan Intwala">
                 12 Month Review
               </HeaderName>
-              <HeaderNavigation aria-label="Kayan 12 Month">
-              </HeaderNavigation>
+              <HeaderNavigation aria-label="Kayan 12 Month"></HeaderNavigation>
               <HeaderGlobalBar>
-                {/* <HeaderGlobalAction
-                  aria-label="Search"
-                  onClick={console.log('test')}>
-                  <Search size={20} />
-                </HeaderGlobalAction> */}
-                {/* <HeaderGlobalAction
-                  aria-label="Notifications"
-                  onClick={console.log('test')}>
-                  <Notification size={20} /> 
-                </HeaderGlobalAction> */}
-                {/* <HeaderGlobalAction
-                  aria-label="App Switcher"
-                  // onClick={action('app-switcher click')}
-                  tooltipAlignment="end">
-                  {/* <SwitcherIcon size={20} />
-                </HeaderGlobalAction> */}
               </HeaderGlobalBar>
               <SideNav
                 aria-label="Side navigation"
                 isRail
                 expanded={isSideNavExpanded}
-                onOverlayClick={onClickSideNavExpand}>
+                onOverlayClick={onClickSideNavExpand}
+                className="scroll"
+              >
                 <SideNavItems>
-                  <SideNavLink renderIcon={Bee} href='' large>
-                    Top
+                <SideNavLink renderIcon={Popup} href="#presentation" large>
+                    Presentation
                   </SideNavLink>
-                  <SideNavLink renderIcon={Badge} href='' large>
+                  <SideNavLink renderIcon={Camera} href="#gallery" large>
+                    Gallery
+                  </SideNavLink>
+                  <SideNavLink renderIcon={Events} href="#roles" large>
+                    Roles
+                  </SideNavLink>
+                  <SideNavLink renderIcon={ChartColumn} href="#stats" large>
+                    Stats
+                  </SideNavLink>
+                  <SideNavLink renderIcon={Badge} href="#badges" large>
                     Badges
                   </SideNavLink>
-                  <SideNavLink renderIcon={ChartColumn} href='' large>
-                    Stats
+                  <SideNavLink renderIcon={ViewNext} href="#next-steps" large>
+                    What's Next? 
                   </SideNavLink>
                 </SideNavItems>
               </SideNav>
@@ -94,13 +70,7 @@ root.render(
           </>
         )}
       />
-      </Theme>
-    <App/>
-  </React.StrictMode>
+    </Theme>
+    <App />
+  </React.StrictMode>,
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
-
